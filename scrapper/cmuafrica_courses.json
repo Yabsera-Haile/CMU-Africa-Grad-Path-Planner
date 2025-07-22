@@ -1,0 +1,1958 @@
+[
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-330.html",
+    "course_code": "04-330",
+    "title": "Fundamentals of Software Development and Problem Solving",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course lays the foundations for approaching problem-solving in a logical, well-designed approach and implementing solutions to a range of technical problems with well-written, high-quality, and extensible software using the basic “best practices” used in the field of software engineering. Topics include algorithm development, problem-solving (decomposition and synthesis), program design, data representation, arithmetic and logical expressions, input/output operations, basic user interfaces, and object-oriented programming and design, with an emphasis on developing good programming habits. Intensive programming assignments are required. ",
+    "objectives": "The programming will involve understanding and analyzing a set of requirements for a problem, formulating a solution, and implementing that solution on the computer along with tests that show that the program achieves its goals. ",
+    "outcomes": [
+      "Understand a basic Computer-Science approach to problem-solving, including algorithm development and proper testing.",
+      "Demonstrate proficiency in programming using a modern programming language.",
+      "Apply these problem-solving techniques and programming skills to develop software solutions to solve a wide range of technical problems."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None. It is expected that students will enroll only if they have no programming background whatsoever or have been recommended because they are unable to code in a programming language at an acceptable level. Prospective students who have already taken a programming course or are unsure of their abilities should consult the instructor prior to enrollment."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-601.html",
+    "course_code": "04-601",
+    "title": "ICT in Africa Seminar",
+    "semester": "Fall, Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "In this course, students learn about Information and Communications Technology (ICT) and its application in Africa. The goal is to provide an overview of core ICT topics such as data, connectivity, artificial intelligence, and cybersecurity and their application to solving problems on the continent in areas ranging from health care to agriculture. In the first part of the course, students read assigned papers (e.g., academic papers, government reports, consultant reports, blog posts, etc.) to deepen their understanding of core ICT topics in an African context.  Each week, students write individual summaries based on the readings, give a team-based oral presentation, and lead an in-class discussion based on their assigned reading. The second part of the course is a student-directed, team-based project in which students select an African challenge and research potential ICT solutions. In addition to deepening their ICT knowledge, students will strengthen their skills at reading and summarizing technical papers, their oral and written communication abilities, and their dexterity in working in teams. ",
+    "objectives": "Students will gain a greater understanding of: ",
+    "outcomes": [
+      "Understand core ICT topics, including data, connectivity, artificial intelligence, cybersecurity, the Internet of Things, and human-computer interaction from both a global and an African perspective.",
+      "Think critically about how to apply ICT solutions to African-based issues in sectors such as agriculture, finance, health care, and energy.",
+      "Effectively read and synthesize technical papers, including journal articles, government reports, and industry documents.",
+      "Deliver clear and insightful oral and written summaries on technical topics."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-603.html",
+    "course_code": "04-603",
+    "title": "ICT Entrepreneurship Seminar",
+    "semester": "Fall, Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "In this course, we define an entrepreneur as someone engaged in the development of a new product (and perhaps, but not necessarily, also a new venture) under conditions of extreme uncertainty. Entrepreneurship is a key part of an economy's search for new solutions that increase customer value. Why is it a search? Because, when the conditions surrounding a contemplated new product are uncertain, the answers to key questions are not known apriori. What features are actually needed? Does the product in fact solve the problem we think it does for the users? Are they willing to pay enough for the product to make bringing it to market profitable? Ultimately, entrepreneurship is a critical part of the growth engine that improves a society's standard of living. In this course, we look at how to facilitate this search process and hopefully maximize the chance of bringing a successful new product to market. ",
+    "objectives": "Students will learn to think more deeply about how markets operate, what creates value, and how to investigate an idea in an environment characterized by risk and the need to be profitable. In other words, they'll learn to think like an entrepreneur. They will gain an appreciation for entrepreneurship as just one part, albeit an important one, of the entire economy. They will hear first-hand from multiple entrepreneurs and learn about their personal experiences and lessons learned. ",
+    "outcomes": [
+      "Evaluate an entrepreneurial idea",
+      "Explain the lean startup methodology",
+      "Write a \"Jobs To Be Done\" specification",
+      "Create a lean canvas model for a proposed new product/venture",
+      "Read basic economic literature and understand the concepts being addressed: supply/demand, how prices are set, etc.",
+      "Create and read two of the most important financial statements: the P&L and Balance sheet"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-605.html",
+    "course_code": "04-605",
+    "title": "ICT Professional Development Seminar",
+    "semester": "Fall, Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "The seminar prepares second-year students for professional life beyond CMU. Objectives may include finding a job, securing a promotion or transfer in an existing company, preparing to become managers and leaders, entrepreneurship, or applying to a Ph.D. program. Students explore career opportunities in ICT through individual and group projects, presentations, and discussions. Students draw on internships, work experiences, team projects, selected readings, and guest lectures to examine the role of global professional, managerial, leadership, and technical skills critical to success and to develop strategies for lifelong learning and professional development. ",
+    "objectives": "",
+    "outcomes": [
+      "Articulate their personal value as a tech professional.",
+      "Analyze their career options and set effective career goals.",
+      "Identify and leverage career development opportunities.",
+      "Explain the key qualities and skills of good managers.",
+      "Analyze and evaluate diverse leadership styles in context.",
+      "Reflect on their role as followers in influencing the evolution of African professional culture.",
+      "Communicate and collaborate more effectively across professional cultures."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-606.html",
+    "course_code": "04-606",
+    "title": "Academic Skills for Engineers I",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course aims to introduce students to a range of academic skills to support them in their MSc programs. The skills will include identifying credible sources, describing graphs, processes and changes as well as longer pieces of academic writing such as critical reviews and essays. This course is offered on a pass/no pass basis. ",
+    "objectives": "The primary aim of this course is to increase students’ ability to communicate effectively in an English language academic context by developing their research and writing skills. Its secondary aims are to enhance higher order thinking aptitudes and independent learning. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-607.html",
+    "course_code": "04-607",
+    "title": "Academic Skills for Engineers II",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course aims to expand students’ range of academic skills to support them in their MSc programs. The skills will include more on academic style when writing as well as presentations and seminars. This course is offered on a pass/no pass basis. ",
+    "objectives": "The primary aim of this course is to increase students’ ability to communicate effectively in an English academic context by developing their speaking, listening, reading, and writing skills. Its secondary, supporting aims are to enhance higher-order thinking aptitudes and independent learning. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-608.html",
+    "course_code": "04-608",
+    "title": "Advanced Academic Skills for Engineers I",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course aims to develop students’ range of academic skills to support them in their MS programs. The skills will include academic writing, summarizing texts, preparing and delivering presentations, and research and seminar skills. This course is offered on a pass/no pass basis. ",
+    "objectives": "The primary aim of this course is to increase students’ ability to communicate effectively in an English academic context by developing their speaking, listening, reading, and writing skills. Its secondary, supporting aims are to enhance higher-order thinking aptitudes and independent learning. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "This is NOT for students taking 04-606 Academic Skills for Engineers I or 04-607 Academic Skills for Engineers II ."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-609.html",
+    "course_code": "04-609",
+    "title": "Advanced Academic Skills for Engineers II",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "04-608 Advanced Academic Skills for Engineers I",
+      "This is NOT for students taking 04-606 Academic Skills for Engineers I or 04-607 Academic Skills for Engineers II ."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-611.html",
+    "course_code": "04-611",
+    "title": "Strategic Use of Digital Information in Enterprise",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Analyze and critically assess MIS: Understand how information systems support business operations, decision-making, and strategic objectives in digital firms.",
+      "Develop strategic solutions: Apply MIS knowledge to design and propose strategic solutions for business challenges and leveraging technology for competitive advantage.",
+      "Evaluate ethical and social implications: Critically evaluate ethical, legal, and social implications of information systems, including privacy, security, and digital ethics.",
+      "Manage emerging technologies: Assess the impact of emerging technologies on business models, operations and develop strategies for integration.",
+      "Implement knowledge management and business intelligence: Utilize tools to improve organizational decision-making and operational efficiency.",
+      "Lead MIS projects: Manage and lead information systems projects using methodologies like SDLC and project management principles."
+    ],
+    "content": "Module 1: Organizations, Management, and the Networked Enterprise Module 2: Information Technology Infrastructure Module 3: Key System Applications for the Digital Age Module 4: Building and Managing Systems ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-612.html",
+    "course_code": "04-612",
+    "title": "Market Planning for High Tech Innovation",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "To serve their markets, enterprises develop business plans to articulate their business strategy and operation plans to achieve their goals. Market planning is the process used to develop and manage business plans. More than any other industry, the high-tech industry routinely introduces discontinuous innovations. Market planning in high-tech markets poses its own unique problems due to the market and technological uncertainty and the competitive volatility of high-tech environments. In Africa, many IT-based innovations can be considered High-Tech innovations as they offer solutions whose functioning is beyond the reach of common knowledge and they are discontinuous/radical or disruptive innovations, requiring users to change their mode of behavior or modify products or services they rely on. Due to inappropriate business plans many high-tech innovations never make it successfully to the market. High-tech innovations require a different market planning process for their market introduction. In particular, the Technology Adoption Life-Cycle concept will be used to understand how potential buyers respond to discontinuous innovation. In this course, we will cover the market planning process used for developing a market-driven strategy and business plan for high-tech innovations. The process starts with the understanding of the marketplace that the enterprise decided to serve through market analysis, the segmentation of the marketplace based on the customers’ needs (market segmentation), the selection and prioritization of the market segments (portfolio management), and the development of objectives and strategy for each selected segment (strategic planning). Finally, the tactical actions to implement the strategy are documented in a business plan to ensure the integrated execution of all tactical elements. The course will be illustrated with real examples from the IT industry. Students will apply the concepts learned to develop a business plan for a local enterprise in collaboration with its executive team or for their own innovation. ",
+    "objectives": "The primary goal of this course is to provide students with a basic understanding of: This course objective is not to train market planning experts. Instead, the goal is to introduce students to the market planning concepts to encourage them to further educate themselves in that area. It takes years of practical experience to become a market planning expert. This course is focusing on market planning for IT products and services. ",
+    "outcomes": [
+      "Understand the business value of market planning.",
+      "Have a basic understanding of the key steps of the market planning process and be able to perform those steps.",
+      "Have a better understanding of what it takes to know and understand a market."
+    ],
+    "content": "The course will cover the following topics: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-613.html",
+    "course_code": "04-613",
+    "title": "ICT Business Economics and Finance",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course focuses on financial fundamentals (e.g., reading and understanding financial statements, cost analysis, and budgeting) and basic concepts from economic theory in the context of the current ICT industry. Topics to be covered include market structure, regulation, strategy, negotiation, business models, working with investors, and creating business plans. The class format is to present theory as it applies to business in general and then apply it to current firms in the ICT sector. The concepts and thinking introduced in this class apply to companies in other sectors, including the non-profit sector. ",
+    "objectives": "The class project has each student analyzing the financials and economics of a significant ICT firm, writing a paper on the firm, and presenting the results to the class. Each student will also create an original business plan for a new ICT firm in Africa and present it to the class. ",
+    "outcomes": [
+      "Understand the market structure, regulation, strategy, negotiation, and business models.",
+      "Use critical thinking skills and draw meaningful conclusions in business situations.",
+      "Work with investors and create business plans.",
+      "Apply the theory to current firms in the ICT sector and companies in other sectors.",
+      "Relate the actual learnings to the outside world by the provided expertise and insights on various viewpoints on topics shared by the panelists’ discussion at the end of the semester."
+    ],
+    "content": "Impact of economics and finance on information society: The enterprise: Capitalization strategy and the business plan: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-616.html",
+    "course_code": "04-616",
+    "title": "Tech Startups: Tools and Techniques",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "The first three years of a technology start-up, when the company's DNA or trajectory is set, are the most critical. Too few entrepreneurs appreciate this fact and, as a result, many start without the essential skills, talents, and capabilities needed to set the company on a successful path. Some of these entrepreneurial skills can only be learned through starting and growing a business while others can be learned. This course bridges the challenging gap between learning and doing entrepreneurship. We introduce the essential skill of market discovery, or learning to create, develop, and evaluate the concept of your business. Is my idea a real innovation? Is it also a business or a product, or neither? How do I know how big the market is for my product? What are the technology market and competitive risks in my idea and how do I assess them? Can I compete? Can I sell it? How? When? Where? Students will have the opportunity to apply their newfound practical skills gathered in part from lectures from experienced entrepreneurs and investors to case studies, role-playing, and solving actual problems of local tech businesses. The best way to learn entrepreneurship is by doing, so the course will use ‘true-to-life’ scenarios. The class will be divided into teams and will focus on a company that is either (1) a student idea for a new start-up, (2) an existing start-up (ideally local), or (3) a hypothetical start-up proposed/conceived by the students, the professor, or both. ",
+    "objectives": "Each student will be better able to do the following by the end of the course: ",
+    "outcomes": [],
+    "content": "Teams will take their respective cognitive learning-driven start-ups through customer discovery. Specifically, each team will be required to make a presentation and produce a final report. Each presentation will come at the end of each course section, roughly equally spaced throughout the semester. Each team will make a ~25-minute presentation followed by ~15 minutes of discussion between fellow students, faculty, and invited guests. Students are, of course, encouraged to draw on resources beyond the assigned reading and lectures. Presentations will be judged on the quality and depth of the analysis and clarity of presentations (see attached presentation assessment forms). Students can expect not only to develop but provide recommendations. Grade weighting is as follows: Team presentations will collectively be evaluated on the quality, depth, and usefulness of the recommendations of their peers for that session. Grades are assigned by the professor with consideration to the quality of the discussion in the final grade. ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-622.html",
+    "course_code": "04-622",
+    "title": "Applied Cryptography",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "Cryptography is literally thousands of years old because it has always been important to secure information in a manner that only the intended recipient can access it. One famous cipher, Caesar's cipher, was apparently used by the Romans. Today, cryptography is essential for e-commerce and communication. But cryptography is more than just encrypting data. Cryptographic techniques address other system-level problems too, including but not limited to: ",
+    "objectives": "Students will learn: ",
+    "outcomes": [
+      "Read and understand protocols and system documentation that employ cryptography.",
+      "Make informed decisions about how to use cryptography in systems.",
+      "Write Python code using public libraries to perform cryptographic operations.",
+      "Understand and explain the mathematical underpinnings of several cryptographic systems."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-623.html",
+    "course_code": "04-623",
+    "title": "Cyber Defense",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course is designed to teach students the principles of cybersecurity and how they correlate to security practitioners and cyber adversaries. The course integrates networking and system management principles with a focus on system security through defensive strategies. Students will learn how to think like an attacker, how modern cyber-attacks and defenses work in practice, and how to evaluate risks and security systems. They will learn by working in a hands-on lab setting and participating in real-world internships while developing strong critical thinking skills. After completing this course, students will have the necessary core skills and understanding of typical risks and weaknesses as well as how to design a safe system using fundamental concepts and methodologies. ",
+    "objectives": "",
+    "outcomes": [
+      "Securing an IT infrastructure and examining and resolving security risks in networks and computer systems",
+      "Creating, testing, and evaluating secure application software",
+      "Developing policies and procedures for managing security risks in organizations"
+    ],
+    "content": "Cyber-threats, vulnerabilities, and attacks: Cyber Threats Summary, Vulnerabilities Review, Common avenues of Cyber-attack, The Global Cyber Threat Landscape, Threat Actor Types, Cybercriminals, Non-Adversarial Employees, Adversarial Employees, Nation State Actors, Hacktivists, Threat Modeling Fundamentals, State Espionage, Sabotage. Incident response: External Attack on Servers, Suspicious Unauthorized Access, DDOS TCP-SYN Attacks, Web Shell Attack, Client-Side Attacks, Suspicious Email attacks, Detection techniques of Reverse Shell Connectivity, Data Breach Investigation, Malicious Command Execution, Internal Reconnaissance, Data Exfiltration, Anomaly Detection and Investigation, Hacking Tool Investigation, Identifying and Reacting to a Malware Attacks, Malware Incident handling. Protective cybersecurity technologies: The Cyber Kill Chain, Cyber Intelligence, Application Security Overview, Web Application Firewall (WAF), Application Security Testing, Techniques and Products, the NIST Cybersecurity Framework, Digital Rights Management, Endpoint Protection Platform (EPP), Application Whitelisting/Blacklisting, File Integrity Monitor, Full Disk Encryption, Data Encryption and Key Management, Data Masking and Tokenization, Network Access Control, Data Leakage Prevention (DLP), Data Intrusion Prevention Systems, Secure Web Gateway, Secure Cloud Access Security Broker, Cloud Security Posture Management, and Cloud Security Overview ",
+    "prerequisites": [
+      "Any of the following fall semester courses:",
+      "Alternatively",
+      "if a student does not have the prerequisites listed above",
+      "they should possess the following skills:"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-624.html",
+    "course_code": "04-624",
+    "title": "Information System Audit and Standards",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "The goal of this course is to introduce students to concepts, tactics, and best practices in IT governance, auditing, and control. Based on recognized IS audit standards, frameworks, and guidelines, students will gain the knowledge and abilities to evaluate IS governance and develop and implement audit strategies and controls. Students will also learn about the underlying legal, ethical, and security challenges. ",
+    "objectives": "",
+    "outcomes": [
+      "IT industry security standards and frameworks",
+      "Information security policy development",
+      "Security compliance and auditing",
+      "Access control and information abstraction for level of demanded security"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-625.html",
+    "course_code": "04-625",
+    "title": "Intrusion Detection Systems",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Intrusion detection systems (IDSs) constitute an essential component of any network security solution package. Underlying IDSs is a great deal of fascinating mathematics mostly taken from various fields such as Probability Theory, Statistic, and Detection Theory. A good understanding of this mathematical background will enable Security Officers to better appreciate the benefits and limitations of IDSs and prepare them to become better practitioners. ",
+    "objectives": "The goal of this course is two-fold. First, it will provide students with hands-on exposure to the mathematical principles and techniques used in intrusion detection. Second, students will experiment with the real-life process of going from a theoretical intrusion detection solution to its implementation. The course will proceed by introducing mathematical concepts on an \"as needed\" basis, motivated by their direct applications to intrusion detection. ",
+    "outcomes": [],
+    "content": "Theoretic Part Lab Tips: Install Security Onion (comes with bro, snort, suricata, etc.) ",
+    "prerequisites": [
+      "None",
+      "but a background in networking",
+      "programming",
+      "and basic probability would help."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-630.html",
+    "course_code": "04-630",
+    "title": "Data Structures and Algorithms for Engineers",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "The course begins by considering the main phases of the software development lifecycle: requirements elicitation, computational modeling, system specification, software design, implementation, and software quality assurance, including various forms of testing, verification, and validation. Then, building on the concept of abstract data types, the course provides an in in-depth treatment of the key elements of algorithms and data-structures, beginning with the fundamentals of searching, sorting, lists, stacks, and queues, but quickly progressing to more advanced topics, including trees, graphs, and algorithmic strategies. It also covers the analysis of the performance and tractability of algorithms, finishing with automata theory and computability theory. A key focus of the course is on effective implementation and good design principles. ",
+    "outcomes": [
+      "Recognize and analyze critical computational problems, generate alternative solutions to problems, and assess their relative merits.",
+      "Understand, analyze, and characterize those factors that influence algorithmic computational performance and memory consumption.",
+      "Design, implement, and document appropriate, effective, and efficient data structures & algorithms for a variety of real-world problems.",
+      "Understand detailed software structures and their underlying strengths and weaknesses.",
+      "Perform detailed, code-level design and document the design in an understandable way."
+    ],
+    "content": "Introduction & The Software Development Life Cycle. Goals, outcomes, and syllabus. Assignments, labs, and exercises. Software development tools for assignments. Levels of abstraction. The software development life cycle. Yourdon Structured Analysis - functional, data, and behavioural models (hierarchical decomposition trees, architecture diagrams, data flow diagrams DFD, data dictionaries, entity relationship ER diagrams, state transition diagrams). Software process models: waterfall, evolutionary, formal transformation, re-use, hybrid, spiral. Formalisms for Representing Algorithms. Definition of an algorithm. Modelling software. Relational modelling. State modelling. Practical representations. Pseudo code. Flow charts. Finite state machines. UML. Predicate logic. Analysis. Analysis of Complexity. Performance of algorithms, time and space tradeoff, worst case and average case performance. Big O notation. Recurrence relationships. Analysis of complexity of iterative and recursive algorithms. Recursive vs. iterative algorithms: runtime memory implications. Complexity Theory: tractable vs intractable algorithmic complexity. Example intractable problems: travelling salesman problem, Hamiltonian circuit, 3-colour problem, SAT, cliques. Determinism and non-determinism. P, NP, and NP-Complete classes of algorithm. Searching and Sorting Algorithms. Linear and binary search (iterative and recursive). In-place sorts: bubblesort (efficient and inefficient), selection sort, insertion sort. Not-in-place sorts: Quicksort, merge sort. Complexity analysis. Characteristics of a good sort. Speed, consistency, keys, memory usage, length & code complexity, stability. Other sorts ordered by complexity. Abstract Data Types (ADT). Abstract Data Types (ADT). Information hiding. Types and typing. Design Goals. Design practices. Containers, Dictionaries, and Lists. Container and dictionaries: mechanisms for accessing data in a list. List ADT. Implementation with arrays. List ADT. Implementation with linked lists. Doubly linked lists and circular lists. Performance considerations. Stacks. Stack (LIFO) ADT. Implementation using List ADT (array and linked-list). Comparison of order of complexity. Stack applications, including token matching, evaluation of postfix expressions, and conversion of infix expressions to postfix. Queues. Queue (FIFO ADT). Implementation using List ADT (array and linked-list). Comparison of order of complexity. Dedicated ADT. Circular queues. Queue applications. Trees. Concepts and terminology: level, height, external and internal nodes, skinny, fat, complete, left-complete, perfect, multi-way, d-ary. Types of tree: binary, binary search, B-tree, 2-3 tree, AVL, Red-Black. Binary trees and binary search trees. Tree traversals: inorder, preorder, postorder. Height-balanced trees: AVL Trees, RR, RL, LR, LL rotations. Height-balanced trees: Red-Black Trees, single promotion, zig-zag promotion, recolouring and restructuring. Tree applications. Fixed- length codes & variable length codes. Optimal code trees. Huffman's algorithm. Heaps. Priority queues. Heap basics. Types of heap: min heaps and max heap. Heap characteristics. Implementation of heap. Heap operations: delete max/min, down heap, up heap, merge, construct, heapify. Complexity of operations. Heap sort. Graphs. Types of graphs: directed, undirected, weighted, unweighted, cyclic, acyclic, directed acyclic, simple, non-simple, implicit, explicit, embedded, topological. Adjacency matrix representation. Adjacency list representation. Graph traversal: breadth-first search and depth- first search; implementation and application. Topological sort. Spanning trees and minimum spanning trees, Kruskal's algorithm, Prim's algorithm. Dijkstra's shortest path algorithm. Floyd- Warshall's all-pairs algorithm. Complex Networks. Euler's theorem: the Bridges of Königsberg. Networks vs. graphs. Degree, average degree, and degree distribution. Bipartite networks. Path length, BFS, Connectivity, Components. Clustering coefficient. Random graph model. Small world phenomena. Scale free networks. Communities. Fundamental Hypothesis. Connectedness and Density Hypothesis. Strong and weak communities. Graph partitioning. Community detection. Hierarchical clustering. Girvan- Newman Algorithm. Modularity. Random Hypothesis. Maximum Modularity Hypothesis. Greedy algorithm for community detection by maximizing modularity. Overlapping communities. Clique percolation algorithm and CFinder. Algorithmic Strategies. Classes of algorithms. Brute force. Divide and conquer. Greedy algorithms. Dynamic programming. Combinatorial search. Backtracking. Pruning. Branch and bound. Hashing. Dictionaries. Hashing. Hash functions. Collision resolution. Complexity. Applications. Analysis of Correctness. Types of software defects. Code module design. Syntactic, semantic, logical defects. (Semi-)formal verification: partial vs. total correctness. Invariant assertion method. Simple proof strategies: by contradiction, counterexample, induction. Dynamic testing: unit tests, test harness, stubs, drivers, integration testing, regression testing. Static tests: reviews, walkthroughs, inspections, reviewing algorithms and software. Pair programming. Verification and validation strategies. ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-631.html",
+    "course_code": "04-631",
+    "title": "Advanced Database Systems",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course aims at describing the databases in a way suitable for applications and computer systems designers. First, the course describes the fundamental characteristics of current architectures. Then, it illustrates the main lines of system evolution, presenting the models that go beyond the relational systems such as active databases, object-oriented systems, and the management of XML data. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Familiarity with relational databases and Structured Query Language (SQL)."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-632.html",
+    "course_code": "04-632",
+    "title": "DevOps: Software Development and IT Operations",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course focuses on the technology aspect of DevOps. You will learn the basics of the infrastructure important to utilizing DevOps tools (i.e., virtualization, networking, the cloud, and infrastructure security). You will also learn the theory of fundamental DevOps concepts: Infrastructure as Code, configuration management, the deployment pipeline, microservice architecture, management of configuration parameters, the things that happen after a service is deployed, disaster recovery, and development-oriented security. Finally, you will see samples of the main DevOps tools. ",
+    "objectives": "After completing this course, students will be able to: ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Familiarity with programming languages and operating systems."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-633.html",
+    "course_code": "04-633",
+    "title": "Embedded System Development",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This hands-on course provides a basic understanding of embedded systems development (embedded processor architectures, programming, and design); models of computation for embedded systems; modeling, specification, synthesis, and verification; hardware/software implementation; performance analysis and optimization; and project design methodologies and associated tools. ",
+    "objectives": "",
+    "outcomes": [
+      "Understand the principles of micro-computers and embedded programming",
+      "Understand hardware and software for embedded microcontrollers",
+      "Understand the interaction of key devices (buses, memory architectures, memory management, device drivers)",
+      "Use simulating tools for designing and developing embedded systems",
+      "Plan installation and maintenance of embedded systems",
+      "Prepare reports and technical reviews for embedded software development reviews",
+      "Carry on independent investigation on embedded systems of their failure",
+      "Demonstrate problem-solving using embedded programs"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-634.html",
+    "course_code": "04-634",
+    "title": "Software Architecture and Design",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Software Architecture and Design is a one-semester course, aiming to train our graduate students from software engineers toward becoming software architects who are the technical lead of a software project team. The primary objective of the course is to help students develop skills in designing, developing, and justifying reasonable software architecture for enterprise-scale software-intensive systems, considering both functional and non-functional requirements as well as contextual system environments. Core topics include an overview of software architecture, micro-architectural patterns (so-called design patterns), macro-architectural patterns (i.e., modern patterns), service-oriented architecture, architectural modeling, viewpoints and perspectives, architectural analysis techniques, architectural tactics (QoS), agile architecture, and some advanced topics. Literature survey and study of state-of-the-art technologies, as well as both individual and group project work, are essential ingredients of this class. Research and practical projects build upon one another. Please note that this course is intended for ECE master students with a concentration in Software Engineering and will satisfy the Software Engineering and Design requirement. ",
+    "objectives": "Software Architecture and Design is a one-semester course, aiming to train our graduate students from software engineers toward becoming software architects who are the technical lead of a software project team. The primary objective of the course is to help students develop skills in designing, developing, and justifying reasonable software architecture for enterprise-scale software-intensive systems, considering both functional and non-functional requirements as well as contextual system environments. ",
+    "outcomes": [],
+    "content": "Overview of software architecture, micro-architectural patterns (design patterns) and macro-architectural patterns (modern patterns), service-oriented architecture, architectural modeling, viewpoints and perspectives, architectural analysis techniques, architectural tactics (QoS), agile architecture, and some advanced topics such as Devops, container management, serverless computing, etc. ",
+    "prerequisites": [
+      "Understanding of basic software engineering concepts and effective knowledge of Java programming.",
+      "18652 Foundations of Software Engineering Anti-Requisites: 17-655 Architectures for Software Systems."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-636.html",
+    "course_code": "04-636",
+    "title": "Software Accessibility",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "The course addresses the ICT solutions (tools and applications) for users with special requirements. Topics include the models for the characterization of the functional skills of users and the design, development, and evaluation (of usability) of ICT solutions designed for special users. Specific attention is paid to the Web Accessibility standards and to multimodal interfaces for users with cognitive, sensory, and motion disabilities. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-637.html",
+    "course_code": "04-637",
+    "title": "Mobile Big Data Analytics and Management",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "New sources of digital data from phones, mobile applications, social media companies, financial services providers, satellites, and other digital sensors are opening up new opportunities for societal-scale data analysis and inference. This course will define “mobile big data” broadly to introduce students to methods for storing and analyzing large digital traces, and to explore the potential and limitations of these data to learn about social and environmental phenomena. Much of the course will focus on equipping students with practical skills to work with mobile big data sources, including machine learning and data mining techniques specific to mobile big data’s unique characteristics (multi-dimensional, personalized, spatiotemporal, sparse, and real-time). The course will also cover applications of mobile big data, particularly in topics related to sustainable development in Africa, as well as privacy and security challenges to working with mobile big data. ",
+    "objectives": "",
+    "outcomes": [
+      "Distinguish the characteristics of different types of mobile big data, including mobile phone metadata, internet traces, social media data, satellite data, and in situ sensing",
+      "Apply appropriate data management techniques for mobile big data, including SQL and NoSQL Prepare and clean mobile big data for analysis",
+      "Draw on a set of data analysis techniques, including supervised and unsupervised machine learning, natural language processing, geospatial techniques, and time series methods to analyze mobile big data",
+      "Discuss the limitations of mobile big data for societal-scale analysis, and identify use cases where mobile big data may be more or less suited to answering research questions",
+      "Assess the risks of mobile big data analysis, including issues related to privacy, security, fairness, and interpretability, and apply safeguards to mitigate these risks"
+    ],
+    "content": "This course covers: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-638.html",
+    "course_code": "04-638",
+    "title": "Programming for Data Analytics",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "The course aims to prepare learners to develop solutions for different types of data analytics problems and to communicate relevant analytics insights to different types of audiences. ",
+    "outcomes": [
+      "Explain and apply problem-solving and programming skills to solve analytics problems.",
+      "Apply programming skills to access, process, understand, and prepare data for analytics.",
+      "Select and apply appropriate machine learning techniques to develop solutions for different types of analytics problems.",
+      "Evaluate and select machine learning models based on objective criteria.",
+      "Disseminate analytics insights to various audiences/stakeholders."
+    ],
+    "content": "Programming fundamentals: Applications to analytics problems: Analytics pipelines and model deployment Communication of insights: analytics reports, visualizations, and dashboards ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-641.html",
+    "course_code": "04-641",
+    "title": "Fundamentals of Telecommunications and Computer Networks",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "In this class, students will learn how modern telecommunications and computer networks function as well as key communication protocols and protocol stacks. Moreover, the course will discuss computer network design and deployment through lectures and lab work. Students will complete weekly labs that require them to implement a specific network configuration. The course grade will be based on weekly lab write-ups, paper reviews, a midterm, and a final exam. ",
+    "objectives": "The goal of this course is to provide learners with the fundamentals of computer networking and other telecommunication systems. After completing this course, students should understand how modern telecommunications and computer networks function and understand relevant protocols and the protocol stack. They should also be able to perform network subnetting and explain how routing and switching are accomplished. ",
+    "outcomes": [
+      "Describe various types of network architectures and protocols",
+      "Describe and analyze QoS and traffic engineering mechanisms and protocols",
+      "Evaluate the performance of standard networks",
+      "Handle address space exhaustion of IPV4 (Subnetting concepts)",
+      "How to effectively and fairly allocate resources among a collection of competing users",
+      "Be familiar with the most popular network applications",
+      "Describe different security issues in computer networks"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-645.html",
+    "course_code": "04-645",
+    "title": "Internet of Things (IoT)",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Traditionally, only computer devices were connected to the Internet. The Internet of Things (IoT) seeks to connect every “Thing” to the Internet. Things may include sensors, vehicles, home appliances, structures, etc. In this course, students will learn how to interconnect different Things to the Internet using web technologies. Using such well-developed and well-supported technologies makes it easier to deploy the IoT network in a cheaper and more secure way. Students will also learn how to send information back to the Things for actuation purposes. Students will learn how to fuse raw sensor data in a meaningful way for large networks. The course will also cover the connectivity technologies available for the IoT and how to choose the most appropriate technologies for different scenarios. The course takes a deeper look at low-power, long-range wireless protocols as well as appropriate protocols for constrained devices in the IoT ecosystem. In addition, students learn about PCB design and hardware prototyping. The course combines several labs and a final class project to enhance student learning. ",
+    "objectives": "The objectives of the course are to: ",
+    "outcomes": [
+      "Explain the differences and advantages of designing IoT systems using the WoT approach",
+      "Choose the most appropriate sensors and associated connectivity technologies and IoT platforms for different scenarios",
+      "Build WoT systems based on RESTful principles to connect multiple low-level sensors to Internet-based applications",
+      "Design a PCB to create a sensor node for a given scenario"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-650.html",
+    "course_code": "04-650",
+    "title": "Mathematical Foundations of Machine Learning",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course offers a comprehensive mathematical foundation for machine learning, covering essential topics from linear algebra, calculus, probability theory, and optimization to advanced concepts including information theory, statistical inference, regularization, and kernel methods. The course aims to equip students with the necessary mathematical tools to understand, analyze, and implement various machine-learning algorithms and models at a deeper level. ",
+    "objectives": "In this course, students will: ",
+    "outcomes": [
+      "Use linear algebra concepts such as matrices, vectors, and eigenvalues to represent and manipulate data",
+      "Students will be able to use calculus concepts such as differentiation and gradients to optimize machine learning models",
+      "Use probability and statistical concepts to model and infer from data",
+      "Use optimization techniques such as gradient descent and convex optimization to optimize machine learning models",
+      "Explain the role of information entropy for assessing model accuracy"
+    ],
+    "content": "This course includes: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-651.html",
+    "course_code": "04-651",
+    "title": "Applications of Artificial Intelligence in Africa",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "Recent advances in AI and Machine Learning and an increase in the availability and collection of massive data sources, such as satellite images, social media data, and call detail records from mobile phone operators, have begun to transform our understanding of critical challenges facing the developing world, especially within the African continent. These data sources can offer a more timely, complete, and cost-efficient alternative to survey data that has the potential to guide more effective decision-making. However, in order to maximize the value of alternative data, users need to have an awareness of their sources and value, knowledge of how and when to use such data to obtain meaningful insights, and a deeper appreciation of a range of ethical issues, such as privacy and consent. In this course, students will become conversant with current research that uses varied types and sources of data to better understand the social and economic realities of people and communities in African countries. Through readings of recent work, students will also analyze the opportunities and challenges presented by using alternative datasets. Upon successful completion of this course, students will be more familiar with the use of current alternative data sources in research. In addition, students will be able to formulate research questions that are grounded in a review of relevant literature and answerable through an analysis of alternative data types and identify existing data sources and relevant machine learning approaches that can be used to answer these questions. ",
+    "objectives": "This course is designed as a seminar. Therefore, it is based on interactions between the students and the instructor, grounded on readings of current research as well as students’ own writing. Guest speakers involved in the implementation of AI/ML services will be scheduled throughout the semester. It is particularly important that class members take advantage of these sessions to ask in-depth questions as to the design, data, and delivery experiences of these services in order to gain insight into your own individual project possibilities. ",
+    "outcomes": [
+      "Critically analyze current research that uses AI and machine learning approaches with alternative datasets",
+      "Discuss the opportunities presented by these approaches in understanding and improving outcomes in various sectors of African countries, such as healthcare and financial inclusion",
+      "Analyze the limitations and challenges presented by these datasets, such as privacy and ethical concerns",
+      "Develop an original project proposal grounded in the current literature which addresses an application of AI/ML or data preparation appropriate to development in Africa"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None",
+      "although a basic understanding of the AI and machine learning fields would be beneficial."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-652.html",
+    "course_code": "04-652",
+    "title": "Artificial Intelligence System Design",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "To understand and protect computer networks and their associated systems from hackers, it is crucial to have equal or superior skills to them. Ethical hackers use the same techniques to probe and bypass security controls as their unprincipled counterparts, but rather than taking advantage of any vulnerability discovered, they document them and provide reasonable advice on how to fix them, so the organization can improve its overall security. Vulnerabilities found on most systems are due to poor system configurations, unpatched and outdated software/operating systems, and operational weaknesses. However, a positive vulnerability assessment and testing does not necessarily suggest that a network or system is 100% secure, but it should be able to resist most attacks to an acceptable level. Artificial intelligence can be defined as the study of the design of rational agents where an agent is something that acts, and rational means that the agent acts to achieve the best-expected outcome. AI has a long history, extending at least as far back as the 1950s. Machine learning can be considered as a sub-field of AI focused on how a rational agent can adapt to new circumstances as well as detect and extrapolate patterns. The implementation of an AI system typically relies on many different hardware and software components. ",
+    "objectives": "This course focuses on two aspects of AI system design: ",
+    "outcomes": [
+      "Configure a Raspberry Pi as an edge gateway",
+      "Use the Raspberry Pi as a development platform for designing simple TensorFlow ML models",
+      "Develop programs incorporating TinyML models for Arduino's on the Raspberry Pi, and deploy them",
+      "Communicate data bi-directionally between the Raspberry Pi and Arduino in real-time, and assess the real-time performance of edge ML models running on the Arduino, including memory utilization and speed of execution",
+      "Understand principles of REST API design and complete client and server-side implementations for accessing ML models using common SDKs such as Flask for Python applications.",
+      "Understand how to package software components as images and containers.",
+      "Be able to implement simple user interfaces using a dashboard framework.",
+      "Understand principles of cloud-based identity and access management such as roles, policies, users, groups, and API key credentials",
+      "Stream data to a cloud database, such as DynamoDB (AWS), where it can be analyzed and queried",
+      "Analyze data stored in the cloud to assess model performance",
+      "Update ML model"
+    ],
+    "content": "Mini 1: TinyML Mini 2: CloudML ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-653.html",
+    "course_code": "04-653",
+    "title": "Engineering Artificial Intelligence Project Methods",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "",
+    "objectives": "In this course, we will: ",
+    "outcomes": [
+      "Understand the challenges in AI system design and building successful projects",
+      "Identify project stakeholders and their impact on project success",
+      "Work with customers and end users to better understand project requirements and goals",
+      "Use Agile Methods and related tools for project management and solution design",
+      "Rapidly prototype solution interfaces for continuous stakeholder feedback",
+      "Use ethnographic methods with diverse end users to inform solution design",
+      "Use automated tools for managing project code, data, and models",
+      "Automate the integration, testing, and delivery of solutions for rapid iterations and improvement"
+    ],
+    "content": "The class is taught through weekly lectures and assignments according to this schedule: ",
+    "prerequisites": [
+      "Must be a second-year student in the MS EAI program."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-654.html",
+    "course_code": "04-654",
+    "title": "Introduction to Probabilistic Graphical Model",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course provides an introduction to the subject of Probabilistic Graphical Models (PGM). PGM gives a unified view for a wide range of problems arising in several domains such as artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields. They provide a very flexible and powerful framework for capturing statistical dependencies in complex, multivariate data. PGM brings together probability theory and graph theory to enable efficient inference, decision-making, and learning in problems with a very large number of attributes and huge datasets. This introductory course will provide you with a strong foundation necessary for applying graphical models to complex problems. ",
+    "objectives": "We will cover key issues including representation, efficient algorithms, inference, and statistical estimation. The course starts by introducing probabilistic graphical models from the very basics, and by presenting the different PGM algorithms and techniques used for inference and learning with directed and undirected graphical models. Then, it delves into the applications and highlights specific comparisons to deep learning models. ",
+    "outcomes": [
+      "Develop the ability to model and analyze complex systems across diverse fields, including computer vision, biology, and language processing.",
+      "Gain expertise in both discrete and continuous sequential problem-solving.",
+      "Acquire skills to handle time series data and make informed predictions.",
+      "Understand the fundamentals of Markov Random Fields (Undirected Graphical Models) and Bayesian Networks (Directed Graphical Models).",
+      "Learn the associations between random variables, conditional independence, and factorization.",
+      "Apply this foundational knowledge to infer latent variables, estimate parameters, and make predictions in complex models, essential for machine learning, computer vision, and natural language processing.",
+      "Master inference algorithms such as Variable Elimination and Belief Propagation to solve real-world problems.",
+      "Solve parameter estimation challenges using techniques like Maximum Likelihood Estimation and Expectation-Maximization.",
+      "Gain practical experience with Hidden Markov Models (HMMs) and Conditional Random Fields (CRFs) in applications like image segmentation and speech recognition.",
+      "Implement variational inference and sampling methods, crucial for approximating complex probability distributions in machine learning and data analysis.",
+      "Apply advanced techniques like Variational Inference, Metropolis-Hastings, Gibbs Sampling, and Hamiltonian Monte Carlo to handle large-scale data and computational challenges.",
+      "Utilize synthetic data generation for inference, enhancing the capacity to model real-world phenomena.",
+      "Explore deep generative models like Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) for tasks such as image and text generation.",
+      "Build expertise in designing advanced AI systems, with applications in autonomous systems, healthcare, and finance.",
+      "Develop a foundation in structure learning and causal discovery, essential for tasks like policy evaluation, decision-making, and understanding complex systems.",
+      "Learn reinforcement learning as inference and meta-learning, vital for cutting-edge AI research in areas like robotics and gaming.",
+      "Scale algorithms and systems to handle large datasets, preparing for real-world challenges.",
+      "Implement large-scale algorithms and systems in research labs, contributing to groundbreaking AI and data science advancements."
+    ],
+    "content": "Module 1: Motivation and Revision Module 2: Basics of Graphical Models Module 3: Exact Inference Module 4: Parameter Estimation Module 5: Case studies (HMM & CRF) Module 6: Variational Inference Module 7: Sampling Module 8: Foundation of Deep Learning Module 9: Deep Sequence Models Module 10: Deep Generative Models Module 12: Causality & RL as Inference Module 13: Spectral Graphical Models & Meta Learning ",
+    "prerequisites": [
+      "Students are expected to have an undergraduate-level background in linear algebra",
+      "multivariate calculus",
+      "probability theory",
+      "statistics",
+      "and some basic graph theory",
+      "Python Programming",
+      "Numpy."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-655.html",
+    "course_code": "04-655",
+    "title": "Artificial Intelligence for Engineers",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This is a graduate-level course on Artificial Intelligence designed to present a larger view of AI covering principles and techniques. It is primarily intended for those with backgrounds in engineering, science and IT who have not previously taken the subject formally or have been exposed to only some of the constituent elements. The course provides the foundations for further study, research, and application in different areas. Topics include: Intelligent agents, search, games, CSP, knowledge representation, logic, reasoning, planning, probabilistic reasoning, decision making, Machine Learning basics, Neural Networks, deep learning, Natural Language Processing basics, machine vision, AI in robotics, and ethics and philosophy of AI. Several assignments and a final project will be given to enable the student to gain practical experience in applying these techniques. ",
+    "objectives": "",
+    "outcomes": [
+      "Apply classical AI techniques including search algorithms, minimax algorithms, neural networks, tracking, and robot localization",
+      "Apply AI techniques for problem-solving",
+      "Explain the limitations of current AI techniques"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None. However",
+      "an ability to code in a programming language and an understanding of probability are expected. Prospective students should consult the instructor if they are either lacking or have already taken another AI course."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-701.html",
+    "course_code": "04-701",
+    "title": "Research Methods in Engineering",
+    "semester": "Fall, Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "The ability to write compelling scientific proposals is critical to developing impactful research, whether one works in academic institutions or pursues entrepreneurial activities. The goal of this course is to learn how to organize and implement a research project from conducting a literature review and selecting a research topic to formulating suitable hypotheses and articulating an effective narrative. Beyond proposal writing, students will learn how to read scientific articles, conduct scientometric analysis, and create publication-quality visuals for their manuscripts or presentations. ",
+    "objectives": "",
+    "outcomes": [
+      "Conduct a literature review and scientometric analysis",
+      "Identify research questions and write problem statements",
+      "Use referencing and editing software for scientific writing",
+      "Create publication-quality visuals for manuscripts and presentations"
+    ],
+    "content": "",
+    "prerequisites": [
+      "Students should have basic software development experience with proficiency in at least one modern programming language and modern programming concepts."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-720.html",
+    "course_code": "04-720",
+    "title": "Ethical Hacking",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "To understand and protect computer networks and their associated systems from hackers, it is crucial to have equal or superior skills to them. Ethical hackers use the same techniques to probe and bypass security controls as their unprincipled counterparts, but rather than taking advantage of any vulnerability discovered, they document them and provide reasonable advice on how to fix them, so the organization can improve its overall security. Vulnerabilities found on most systems are due to poor system configurations, unpatched and outdated software/operating systems, and operational weaknesses. However, a positive vulnerability assessment and testing does not necessarily suggest that a network or system is 100% secure, but it should be able to resist most attacks to an acceptable level. ",
+    "objectives": "The purpose of this course is to learn how to evaluate and test the security of a network and systems’ infrastructure. It covers how to exploit network/system vulnerabilities to determine the strength of the network/system, and whether unauthorized access and other malicious activities are possible. In addition to networks and systems, this course teaches how to identify vulnerabilities in applications software, and how to create custom-made exploits for the vulnerabilities found. Students will also learn the techniques used by malicious hackers to recon and penetrate target systems, to determine the appropriate countermeasures for respective attacks. ",
+    "outcomes": [
+      "Understand the network, system, and application risks and how to manage them.",
+      "Understand techniques used by hackers to penetrate computer networks and systems.",
+      "To identify network, system and application vulnerabilities and implement strongest possible security countermeasures.",
+      "To describe the characteristics of malware programs such as Trojans, worms, virus, spyware, and ransomware.",
+      "To exploit Microsoft Windows machines with Buffer Overflow vulnerability.",
+      "Understanding social engineering attacks and their countermeasures.",
+      "Understanding DDoS and session hijack attacks and how to prevent them.",
+      "Be able to write penetration test reports, both technical and executive.",
+      "Identify tools and techniques used to evade security appliances such as IDS and firewalls."
+    ],
+    "content": "Introduction to Ethical Hacking: Who are Hackers, Types of Hackers, hacking process, hacking methods tradeoffs, External vs. internal, Penetration testing life cycle, Scoping/ Area of applications, Information gathering techniques, hacking ethic. Hands-On essential tools for hacking, e.g., Kali Linux, Burp, OpenVAS, Veil, Metasploit framework, Msfvenom, Wireshark etc. Network and Port Scanning: Network ports and services concepts, Service version scan, Default script scan, Enumeration & Foot printing, Reconnaissance, scan from a file, Tactical Network reconnaissance with Nmap Hacking Frameworks: Msfconsole, Finding Metasploit modules, Setting module options, Standalone payload with msfvenom Exploiting compromised services: Exploiting web and database services through the following labs - Brute force on SSH, SSH Enumeration, SQL Injection, Root privileges escalation Proxychains: Exploiting web servers using advanced SQL injection, attacking remote machines using proxy chains. Advanced Payload generation: Create exploits/payloads with msfvenom, A reverse shell with payloads, upload reverse shell scripts, Explore PUT method vulnerabilities, Shellshock vulnerability, Creating a virus. Exploiting Buffer Overflow: Memory anatomy (Heap & Stack), Buffer overflow concepts, Hacking Windows and Linux platforms with Buffer Overflow Vulnerabilities Social Engineering: Social Engineering toolkit, Spear-Phishing attacks, Web-based attacks, Mass email attacks, Email spoofing Session Hijacking and Packet Sniffing (Theories): Stealing web sessions, Cross-site scripting, Session-side jacking, Session fixation. DDoS attacks and anti-malware evasive techniques: How it works, Motives, Hacktivism perspective, Economic impact, Mitigation strategies and techniques, Techniques for bypassing security measures – software, Anti-malware, Techniques for bypassing security measures – hardware (Firewall, IDS, IPS) Wi-Fi hacking: Hacking Wi-Fi password, Hacking Wi-Fi protected access, War Driving, Setup a rogue AP, juice-jacking. Cryptographic Attacks: Password Brute-Force Attacks, Attacks on a cipher, Man-in-the-Middle Attack, Replay Attack, Dictionary Attacks, Side-Channel Attacks.  ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-730.html",
+    "course_code": "04-730",
+    "title": "Augmented and Virtual Reality",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Read technical literature related to MR systems",
+      "Analyze whether an MR solution is appropriate for problems they are working on in either industry or academia",
+      "Develop AR and VR software applications using Unity (or a similar platform)",
+      "Pursue deeper studies in MR research areas"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-762.html",
+    "course_code": "04-762",
+    "title": "Machine Learning for Earth Observation",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Satellite data needs special skills to process, visualize, and analyze. In this course, students will be introduced to different GIS data models. The course will introduce some of the advanced techniques for collecting, processing, and analyzing remote sensing data. It will also discuss some of the techniques in geospatial data fusion and introduce the concept of transfer learning in geospatial data analytics. Students will apply ML techniques and other geospatial data analytics tools in practical and relevant applications such as assessing land use and land cover, change detection, crop disease detection, etc. ",
+    "objectives": "In this class, students will learn: ",
+    "outcomes": [],
+    "content": "The coverage of this course includes: ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-V3.html",
+    "course_code": "04-801-V3",
+    "title": "Leading and Managing Technology and Innovation",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course will provide an insider’s look at issues that scientists, engineers, and managers are likely to encounter in companies pursuing innovative technologies. The instructor, Prof. Mark Kryder, spent five years as a manager at the IBM Research Center in Yorktown Heights, NY, and founded and led the Data Storage Systems Center at CMU, before spending nine years as Chief Technical Officer and Senior Vice President, Research for Seagate Technology. In this course, he will try to give students an improved understanding of how to effectively lead and manage engineers and scientists carrying out research, development, and engineering on new technologies and/or products. The course is built around the instructor’s personal experiences and also draws heavily from business management literature and business case studies. It is expected that the course will make the transition from the university to working in a company easier and faster for students who have taken it and enable them to become leaders in a shorter period of time than others without this background. The course will be taught using case studies and discussion. Grading will be based on participation in class discussions, written case study analyses, and written midterm and final exams. ",
+    "objectives": "The objective of this course is to introduce the participants to many of the different considerations required to successfully build an innovative technology company. Corporate organizational structures, location and design of business facilities, means of measuring performance and rewarding engineers and scientists, the complementarily of technology and marketing in innovation, various approaches to encouraging innovation, the importance of teamwork and diversity, different types of intellectual property and the critical importance of leadership will be discussed. Students will learn about these factors through business case studies, in-class presentations, and in-class discussions. ",
+    "outcomes": [
+      "Difference between sustaining and disruptive technologies and how competitive disruptive technologies often cause previously successful companies to fail",
+      "Differences between pure basic research, applied research, and use-inspired basic research",
+      "Decisions that need to be made in building a facility for a new enterprise",
+      "Relative merits of centralized, decentralized, and hybrid organizational structures for large companies",
+      "Relative merits of functional, project, and matrix organizational structures for companies",
+      "Relative merits of functional, lightweight, heavyweight, and autonomous team structures for bringing new products to market",
+      "Opportunities and risks of globalization",
+      "How the attributes and most effective reward structures differ for persons working on new technology development, product development, and engineering of new products",
+      "Importance of diversity to successful innovation",
+      "The complementary roles of technology, marketing, and business models to the success of a company",
+      "Relative importance of compensation, work environment, work-life balance, and the company attributes to attracting and retaining employees",
+      "When it is best for a company to be vertically integrated and when it is best to be horizontally stratified",
+      "What can management do to encourage more creativity from its employees",
+      "What is meant by corporate culture, why it is important, and how difficult it can be to change",
+      "Technology push, market pull, and double linking approaches to creating innovative products",
+      "Working with universities and in consortia to reduce costs and time-to-market for a new product",
+      "The importance of teamwork and how it differs from collaboration",
+      "Metrics for measuring the performance of research and development teams",
+      "Different types of intellectual property and how they are used differently in different industries",
+      "The importance of leadership to new technology and product development"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-AF.html",
+    "course_code": "04-800-AF",
+    "title": "Advanced Quantitative Financial Analytics and Algorithmic Trading",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Algorithmic trading serves as a practical application of software engineering and data science methodologies and quantitative analysis techniques within the context of financial markets. This course is designed to build on the principles and concepts covered in the introductory course, Quantitative Financial Analytics and Algorithmic Trading, and take students to the next level in algorithmic trading. The course will focus on more advanced concepts, such as data mining, automated strategy discovery, advanced signal analysis, signal validation, execution mechanisms, meta-strategies, advanced risk management, and machine learning in algorithmic trading. Students will work on real-world projects, using Python, and gain hands-on experience in applying these concepts to develop and implement their trading strategies while emphasizing universally applicable engineering concepts and data-driven methodologies. ",
+    "objectives": "Students will develop a strong foundation in universally applicable data engineering principles through the lens of algorithmic trading. The objective of this course is to provide students with a comprehensive understanding of the advanced concepts of quantitative financial research and algorithmic trading, and give them hands-on experience with the areas of expertise involved. Through this course, students will learn about the dangers and caveats of data mining and automated strategy discovery, and will gain an understanding of the different types of data mining used in algorithmic trading. Students will also gain an understanding of different types of optimization and signal analysis methods, and gain hands-on experience in trading strategy validation using different statistical approaches. Trading strategy execution, meta-strategies, and advanced risk management concepts will also be covered. Throughout the course, students will utilize Python programming and various libraries, emphasizing the importance of universally applicable engineering and research principles in creating, testing, and optimizing algorithmic trading strategies, while gaining hands-on experience in addressing real-world challenges. ",
+    "outcomes": [
+      "Understand the risks associated with data mining in algorithmic trading,",
+      "Develop and apply their own trading strategy evaluation methods in Python,",
+      "Create and evaluate trading strategies using their own automated or semi-automated research platform,",
+      "Mitigate and optimize execution costs by internalizing and aggregating orders,",
+      "Understand the concept of layered execution and meta-strategies,",
+      "Apply advanced risk management methods, such as turnoff mechanisms, decorrelation techniques and portfolio generation using Mean-Variance Optimization",
+      "Apply machine Learning in signal generation, validation, and execution systems",
+      "Develop and maintain high-quality code and documentation, adhering to best practices in unit testing, code style, exception handling, and user-friendly error handling across different engineering projects."
+    ],
+    "content": "",
+    "prerequisites": [
+      "Background or hands-on experience in quantitative financial research and algorithmic trading",
+      "or successful completion of 04-800-H Quantitative Financial Analytics and Algorithmic Trading",
+      "with delivering the requirements specified in a passing repository."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-AG.html",
+    "course_code": "04-800-AG",
+    "title": "Business Fundamentals for Engineers",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Participating as an executive in a successful technology business requires familiarity with several fundamental business functions: ",
+    "objectives": "Students will acquire an executive perspective for thinking about technology businesses. They will: ",
+    "outcomes": [
+      "Competently engage with employees of diverse technology businesses and understand the business issues they confront",
+      "Read business literature, such as articles from the Harvard Business Review, and extract lessons from it that are relevant to their business",
+      "Use Quickbooks or a similar free tool (e.g. ZipBooks or gnucash) to track a company’s financial transactions and generate financial statements",
+      "Use a free CRM tool, such as HubSpot CRM, to manage customer contacts",
+      "Create the agenda for a strategy planning session and conduct such a meeting",
+      "Create a presentation describing a product’s market position relative to competitors",
+      "Call on a customer and conduct a sales meeting",
+      "Apply managerial principles in common business situations"
+    ],
+    "content": "Course content will comprise selections from the following sources (and others): Microtopics reinforcing the above objectives and enabling the listed outcomes include: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-AH.html",
+    "course_code": "04-800-AH",
+    "title": "Cybersecurity Operations Project",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course is designed to provide students with practical experience in cybersecurity incident detection and response in a real-world setting. In this course, students will get an in-depth understanding of Security Operations Center (SOC) roles and responsibilities, as well as the open source technologies used to detect, analyze, track and respond to security incidents. Students will gain practical skills in SOC operations, including continuous monitoring, threat intelligence, threat hunting, incident response, use of SOC tools, as well as managing and tuning them. The course combines theoretical knowledge with hands-on labs to prepare students for real world security challenges to get them started as TIER I SOC analysts. ",
+    "objectives": "At the conclusion of this course, students will be able to: ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-A1.html",
+    "course_code": "04-801-A1",
+    "title": "Deep Learning Systems: Hardware, Compilers, and Algorithms",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course examines the algorithms, compilers, and processor components to efficiently train and deploy deep learning (DL) models for commercial applications. The course details advancements and adoption of DL models in industry, explains the training and deployment process, describes the essential hardware architectural features needed for today’s and future models, and details advances in DL compilers to efficiently execute algorithms across various hardware targets. ",
+    "objectives": "The course's primary goal is for students to gain a solid understanding of: ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-761.html",
+    "course_code": "04-761",
+    "title": "Recommender Systems",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Information overload is a characteristic of our society today. This has made decision-making more complicated than ever before. For example, choosing which restaurant to go to for the day’s meal is further complicated by a variety of dishes on the same menu. In the entertainment industry, one has to choose whether to read a book or watch a movie and, if so, which one. Recommender systems have come in handy as far as overcoming such challenges is concerned. Recommender systems are now largely used, particularly in eCommerce websites, for easing the information search and discovery processes and increasing customer fidelity and conversion rates. They attempt to guide people into making decisions based on their preferences and personalities and by mimicking the choices of people similar to them. Recommendation systems are part of machine learning or artificial intelligence (AI) algorithms. Students should gain basic knowledge about the field of web recommendation systems and other main recommender systems methods and tools as well as their theoretical foundations. The students will familiarize themselves with the concept of recommender systems and the scientific underpinnings of the latter in different domains. Students will also gain the necessary tools and techniques to analyze visual and statistical data, build models, and present findings to support data-driven decisions as data science engineers. Students will be involved in hands-on projects such as choosing a topic to work on and getting corresponding data and sources. For example, students can choose from recommender systems in transformer-banking products, healthcare, restaurants, fashion, books, movies, music, and more. For the final project, students will work on RecSys challenges organized by members of the ACM Conference on Recommender Systems. This experience will also give students the skills required for positions in academia and research institutes as well as roles involving network analysis in entrepreneurship and commercial research. ",
+    "objectives": "Starting from basic information retrieval concepts, we will investigate basic techniques for information filtering in recommender systems. We will provide the student with a rich and comprehensive catalog of information search tools that can be exploited in the design and implementation of a specific website such as eCommerce or eGovernment applications for travel, health, or tourism. ",
+    "outcomes": [
+      "Use the necessary tools and techniques to analyze visual and statistical data, build models, and present findings to support data-driven decisions",
+      "Describe the concepts of Recommender Systems and explain the challenges involved",
+      "Recommend appropriate techniques when faced with a recommendation task, as they will have acquired important data science engineering skills",
+      "Obtain hands-on experience implementing existing methods and evaluating them over real datasets"
+    ],
+    "content": "Module 1: Introduction and Basic Concept in RS Module 2: Paradigms of Recommender Systems Module 3: Social-based Recommender Systems Module 4: Group Recommender Systems Module 5: Other Approaches Module 6: Hands-on Sessions (Project) Module 7: Deep Learning for Recommender Systems ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-732.html",
+    "course_code": "04-732",
+    "title": "User Experience and User Interface Engineering",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "There are over 1 billion websites and 3 million mobile apps in the world. How can you design a website or application that can compete to attract users and gain their loyalty when the average app loses 77% of users 3 days after being installed? This course provides a practical introduction on what constitutes good and bad user experiences and how to use design (interfaces, interactions, content) to provide engaging experiences. Students will learn about the human decision-making process, standards, and guidelines on interface and user experience design, user research methods, and techniques for prototyping and evaluating interface designs and user experiences. The course will be taught through lectures, design labs, and group discussions on scientific papers, case studies, and industry reports. Students will also undertake a group project that involves user research and iterative software development and user testing. ",
+    "objectives": "",
+    "outcomes": [
+      "Describe the psychological influences behind human decisions and behaviors",
+      "Explain the different components of the User Experience Honeycomb",
+      "Design and conduct qualitative and quantitative user research studies to identify user needs",
+      "Develop and use low to high-fidelity prototypes as part of the product design process",
+      "Apply empirical and heuristic techniques for user interface and user experience analysis and evaluation",
+      "Describe the evolution of user interfaces and HCI research from past to present and emerging interfaces and interactions paradigms (e.g., interfaces that convey the sense of touch (haptic) and speech-based interfaces)",
+      "Critically review literature to identify knowledge gaps and write a concept note for proposed future research"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-617.html",
+    "course_code": "04-617",
+    "title": "Foundations of Entrepreneurship",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Entrepreneurship in a broad sense consists of developing a product or service for a paying market, accepting risk in order to profit. This often includes the intention to scale (whether as its own business, licensed to an existing business, etc.). This course gives an introduction to the practice of entrepreneurship and focuses on its earliest stages: identifying opportunities and needs, researching and quantifying markets, and developing a marketable and scalable solution. Important in this process is testing and showing which customers will pay for the solution and what revenue models will fit the customers and the business. The course will help students develop a value-creation and business mindset, while its lessons may also be useful for developing non-profits and other entities/groups. ",
+    "objectives": "Students will learn and practice entrepreneurial ways of thinking and identifying needs in a market of interest. They will learn how to look critically at existing companies and their business models, perform customer discovery, evaluate customer needs, and construct a lean model canvas for developing a product/service concept into a profitable business. Students will be introduced to introductory topics in accounting, unit economics, and financing/investment options for early-stage businesses. Students will learn how to pitch a startup concept and construct an initial pitch deck to engage potential customers and investors. ",
+    "outcomes": [
+      "Perform market research based on a selected customer category",
+      "Identify B2B and B2C business models being used by established companies",
+      "Complete customer discovery surveys and interviews to gauge customer needs, interests, and willingness to pay for different solutions",
+      "Apply lean startup methodology in developing a business concept, including the pursuit of a minimum viable product that demonstrates product/market fit",
+      "Put together a lean canvas model for a product, service, or business concept",
+      "Identify and set up the three primary financial statements: profit and loss (or income) statement, balance sheet, and cash flow statement"
+    ],
+    "content": "Basic microeconomic and accounting concepts will also be covered for use in early-stage businesses. This course focuses on revenue-driven business models. ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-G.html",
+    "course_code": "04-800-G",
+    "title": "Humanoid Robotics and Cognition",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "Cognition ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None",
+      "although s tudents are expected to have completed a first-level graduate course in Machine Learning and to be able to program in Python."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-H.html",
+    "course_code": "04-800-H",
+    "title": "Quantitative Financial Analytics and Algorithmic Trading",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Algorithmic trading serves as a practical application of software engineering and data science methodologies and quantitative analysis techniques within the context of financial markets. This project-based course offers an introduction to algorithmic trading and the principles behind it, while emphasizing universally applicable engineering concepts and data-driven methodologies. Students will gain an understanding of the fundamentals of financial markets and trading systems, learn how to manage data, generate signals, backtest strategies, and use APIs to execute trades. Additionally, they will apply risk management principles, position sizing, and software development best practices such as unit testing in Python. Most importantly, the course will teach students specific thinking patterns and data science methodologies that can be applied across various engineering and data analysis fields. Students will be equipped with a toolbox needed to continue researching trading strategies, predictive analytics, or other data science-related topics independently. Following condensed lecture videos, the course will emulate a professional environment through a series of individual assignments culminating in a functional project. Delivery of the project will be guided by direct instruction, Q&A calls, and an online chat group with the lecturers, similar to a real workplace. Students will deliver a functional project in Python, according to a specification, while also taking exams on the theoretical materials covered in the lectures. Student progress is assessed through the delivery of practical projects according to a specification and evaluation criteria. While there are no prerequisites for this course, an understanding of statistics, probabilities, hypothesis testing, measures of spread, confidence intervals, and related topics is assumed. ",
+    "objectives": "Students will develop a strong foundation in universally applicable data engineering principles through the lens of algorithmic trading. They will gain insights into the nature of algorithmic trading in financial markets, various types of orders, and instruments while emphasizing the engineering and research principles that underpin the development of robust trading systems. Students will learn to apply these principles when creating signal processing systems, managing data, and performing hypothesis testing. Additionally, they will acquire the skills to design execution infrastructure using API libraries, learn about risk management techniques, and adhere to best practices in software development to deliver high-quality code. Throughout the course, students will utilize Python programming and various libraries, emphasizing the importance of universally applicable engineering and research principles in creating, testing, and optimizing algorithmic trading strategies, while gaining hands-on experience in addressing real-world challenges. ",
+    "outcomes": [
+      "Understand the fundamental concepts of financial markets and trading systems, which can be applied to various fields of engineering and data analysis.",
+      "Analyze and select appropriate data sources for various engineering and research applications, considering optimization, data mining, and model robustness.",
+      "Develop and evaluate data-driven strategies and signals, applying a range of data types and indicators across different engineering and research disciplines.",
+      "Design and implement a research infrastructure for data analysis, focusing on data management, validation, hypothesis testing, and handling specifics of different data sources.",
+      "Utilize various APIs and libraries to develop execution infrastructure for data-driven applications, including the execution management of algorithmic trading strategies.",
+      "Understand the principles of risk management and decision-making in various engineering applications, including exposure management and decorrelation techniques in algorithmic trading.",
+      "Develop and maintain high-quality code and documentation, adhering to best practices in unit testing, code style, exception handling, and user-friendly error handling across different engineering projects.",
+      "Adopt a systematic approach to data analysis by focusing on specific metrics generated by tests on various data slices, improving the stability of performance and predictive capacity across multiple applications.",
+      "Develop and apply professional validation procedures to minimize overfitting, emphasizing a systematic approach rather than solely focusing on signal analysis and hypothesis testing."
+    ],
+    "content": "The delivery of the course will happen in 4 phases: In Phase I, short, condensed lectures will be delivered, clarifying main concepts. The topics covered in Phase I will be the following: Introduction to Algorithmic Trading Choosing Instruments and Periods without Directional Bias Signal Generation Research Infrastructure Execution Infrastructure Risk Management Delivering Excellence In the project implementation phases support and oversight will be given to students in Q&A sessions. ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-I.html",
+    "course_code": "04-800-I",
+    "title": "Introduction to Systems Software Engineering",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Decompose problems into a sequence of steps, implement those algorithms in C with appropriate encapsulation, and ensure the correctness of their implementation through the development of appropriate testing",
+      "Explain key operating concepts, including kernel space and user space, users and permissions, processes and threads, and I/O redirection",
+      "Design and implement an appropriate data representation for a given problem.",
+      "Develop system programs in C, including mastery of concepts such as dynamically allocated data structures, lexing and parsing, and fork/exec and input redirection",
+      "Explain in detail how an operating system shell (or any other interpreter) is implemented"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-J.html",
+    "course_code": "04-800-J",
+    "title": "Cloud Infrastructure and Computing",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course covers the fundamentals of cloud computing, including servers, storage, databases, networking, software, analytics, and intelligence accessed over the internet. The course will cover the main cloud computing models, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). You will also learn about the different deployment models, such as public, private, and hybrid clouds. The course provides hands-on experience using cloud computing platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). You will learn how to deploy, manage, and scale cloud-based applications, as well as how to secure your cloud infrastructure. Other topics include cloud storage, virtualization, containerization, and serverless computing. ",
+    "objectives": "The objective of this course is to give students an overview of the field of Cloud Computing, its underlying enabling technology, and interact with cloud computing to gain hands-on skills through projects. Specifically, the course has the following objectives: Students will learn: ",
+    "outcomes": [
+      "Explain the core concepts of the cloud computing paradigm: how and why this paradigm shift came about, the characteristics, advantages and challenges brought about by the various models and services in cloud computing.",
+      "Understand and apply Virtualization (hypervisors for bare metal, and hosted, container)",
+      "Deploy and use application on Cloud computing models, IaaS, PaaS, SaaS",
+      "Discuss system, network and storage virtualization and outline their role in enabling the cloud computing system model.",
+      "Programming models for the cloud computing",
+      "Understand consistency Availability and Partition Tolerance (CAP) theorem",
+      "Apply distributed application in the cloud computing",
+      "Calculation of Power usage effectiveness (PUE) to determine the energy efficiency of a data center",
+      "Understand the cloud compliance, the Service Level Agreement (SLA), Service Level Objective (SLO), Service Level Indicator (SLI)"
+    ],
+    "content": "Introduction  Virtualization  Cloud Infrastructure  Cloud Storage  Compliance and security ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-800-K.html",
+    "course_code": "04-800-K",
+    "title": "AIOps: Continuous and Automated IT and AI Monitoring",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course builds on and integrates S/W engineering, AI/ML, and IT skills in support of automated methods for assuring the highest level of system availability and resilience.  Students will apply tools including Docker, Kubernetes, and AI-based models for anomaly detection to monitor and correct hybrid cloud applications as they experience simulated disruptions and outages.  Lab exercises will deploy such monitoring tools in continuous integration/delivery pipelines for proactive control as opposed to traditional reactive and manual incident response. The course will focus on automated monitoring of both IT components (e.g. code-based implementations of a distributed application) and AI/ML components (e.g., models and their associated pre- and post-deployment pipelines). The course will review basic concepts of DevOps including Docker, CI/CD pipelines, and the microservices architectures used in hybrid cloud deployments. This background provides preparation for deep dives into real-time operational data gathering and the automated tools available for anomaly detection, reporting, and even self-correction. For IT monitoring, multiple types of performance data will be used in automated monitoring including structured metrics such as CPU, memory, and network utilization as well as emerging methods for analyzing unstructured content such as textual information in application logs. For AI monitoring, extensions of DevIOps methods for AI will introduce ModelOps and its application to multiple types of quality metrics for automated model monitoring.  Model accuracy, precision, recall, and bias will be evaluated for initial deployment and tracked for post-deployment drift over time leading to predicted violation of quality standards. Hands-on lab work will include tools for configuring and executing pipelines for continuous integration and delivery, deploying applications as microservices with embedded monitoring instrumentation, dashboards for collecting performance data, and multiple methods for real-time tracking of such data with automated anomaly detection and repair. The course consists of weekly hands-on assignments as well as a final project to integrate the project methods covered in the class. ",
+    "objectives": "In this course, we will: ",
+    "outcomes": [
+      "Understand the need for automated methods in maintaining a high level of service availability",
+      "Configure and deploy CI/CD pipelines",
+      "Deploy and manage containerized components and models in a microservices runtime",
+      "Instrument components and models for real-time data collection for analysis and visualization",
+      "Apply AI methods for IT component anomaly detection",
+      "Apply AI methods for AI model drift detection"
+    ],
+    "content": "The class is taught through weekly lectures and assignments according to this general schedule: Grading is based on written assignments, a final portfolio of work, participation, and attendance ",
+    "prerequisites": [
+      "Strong background in Python programming and exposure to DevOps and Cloud platforms such as Docker and microservices."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-N1.html",
+    "course_code": "04-801-N1",
+    "title": "Electronic Business and Technology",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "The coursework includes in-class discussions and a final course project: constructing and implementing a small online shop for a digital platform business model. Students will group in teams of 2-3 students. It is essential to begin work on the course project at the start of the course. The students will be divided into teams of 3. Every team is required to build a small online shop for certain products or services of their choice and present their group work during the last meeting of the class. Students will be provided access to a certain widely used online shop tool (e.g., WordPress/WooCommerce). Each team has to make a proposal for an online shop, which will be discussed in class. Then each team shall construct a prototype using the provided online shop tool. Aside from the technical realization, business aspects such as product categories, SEO-optimized descriptions, and pictures are to be covered. The project and prototype will be presented in the last meeting. Platform business models are widely covered in the news and in scientific articles as well. They can be found in various industries and variations, some of the most successful companies in the world make extensive use of a platform business model (e.g., Uber (USA), Meta (USA), Byte dance (PRC), Vuba Vuba (RW)). Different kinds of platforms can be found, among them aggregation platforms, social platforms, mobilization platforms, and learning platforms (Hagel 2015). Platform businesses refer to a business model (not a technology infrastructure) that focuses on helping to facilitate interactions across many participants. Typically, the role of the platform business is to provide a governance structure and a set of standards and protocols that facilitate interactions at scale so that network effects can be unleashed. Students work on a platform business model and realize a platform prototype. ",
+    "objectives": "",
+    "outcomes": [
+      "Explain the importance of platform business models and their use in enterprises.",
+      "Describe the advantages and disadvantages of platform business models used in enterprises.",
+      "Assess the business value of the platform business models use.",
+      "Develop a prototype using web-based software (e.g., WordPress/WooCommerce) for use in an enterprise use case.",
+      "Present and discuss their results with students in class and faculty."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-O3.html",
+    "course_code": "04-801-O3",
+    "title": "No/low-code For Electronic Business",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "The coursework includes in-class discussions and a final course project: constructing and implementing a prototype of a no-code/low-code tool for a specific use case in a company. Students will group in teams of 2-3 students. It is essential to begin work on the course project at the start of the course. The students will be divided into teams of 2-3. Every team is required to build a prototype using a no-code/low-code platform for a certain enterprise use case and present their group work during the last meeting of the class. Students will be provided access to a certain widely used no-code/low-code tool (e.g., Tulip). Each team has to make a proposal, which will be discussed in class. Then each team shall construct a prototype using the provided no-code/low-code tool. Aside from the technical realization, business aspects such as business process considerations, process documentation, and others are to be covered. The project and prototype will be presented in the last meeting. No-code/low-code tools enable companies to rapidly build portals, reuse interfaces, and tailor functionality to specific experiences for internal and external users. No-code/low-code platforms provide employees the ability to build applications with an intuitive and easy-to-use design interface. This enables employees to build apps without any extensive programming knowledge (sometimes referred to as “democratize application development”). “Low-code” refers to a modular software development approach that picks and connects blocks of code to build an application. Low-code development platforms are the ones that demand a level of coding but make it extremely easy for the low-code and no-code app builders to develop new apps in the least turnaround time. “No-code” development extends the low-code approach in a way that requires essentially no coding knowledge(usage of drag-and-drop). Applications are assembled with the help of functional, reusable building blocks. Gartner (2019) estimates that low-code app platforms would account for over 65% of development by 2024. Typical advantages of the use of no-code/low-code tools are rapid application development, cost-effectiveness, and enabling new revenue streams and business models. During the course, guidance will be given by the instructor (Prof. Dr. Bernhard Ostheimer, CMU-Africa) and an industry partner as well. Part of the course will be delivered in person at CMU-Africa, and part of the course will be delivered via Zoom. ",
+    "objectives": "A structured way of thinking is essential as the students have to analyze an enterprise use case and develop a no-code/low-code-based solution. Students will gain the ability to identify, formulate, and solve complex engineering problems by applying principles of engineering. The prototype, which will be developed by the students in this course, is a real-world company example, students will gain an ability to apply engineering design to produce solutions that meet specified needs with consideration of cultural and economic factors. Students will gain an ability to communicate effectively with a range of audiences as there will be the integration of an industry partner in this course. As students will work in teams of 2-3, they will gain the ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. During this course, students will develop a prototype, which will improve their ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions. As students will improve their knowledge on no-code/low-code platforms, they will be able to acquire and apply new knowledge as needed, using appropriate learning strategies. ",
+    "outcomes": [
+      "Explain the importance of no-code/low-code platform use in enterprises",
+      "Describe the advantages and disadvantages of no-code/low-code platforms in enterprises",
+      "Assess the business value of the no-code/low-code platform use",
+      "Analyze business processes concerning their suitability for the use of no-code/low-code tools",
+      "Develop a prototype using a no-code/low-code platform for use in an enterprise use case",
+      "Present and discuss their results with students in class, faculty, and industry partners"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-O4.html",
+    "course_code": "04-801-O4",
+    "title": "Model-driven Software Engineering",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "Model-driven Software Engineering (MDSE) practices have proved to increase efficiency and effectiveness in software development. The aim of this course is to introduce the students to the MDSE world, thus allowing them to understand and apply its basic principles and techniques. The course is organized into two main parts. The first part discusses the foundations of MDSE in terms of basic concepts. The second part covers the technical aspects of MDSE: how to build a domain-specific modeling language, the description of Model-to-Text and Model-to-Model transformations, and the tools that support the management of MDSE projects. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "PART 1: Foundations of MDSE PART 2: Technical aspects of MDSE ",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-S3.html",
+    "course_code": "04-801-S3",
+    "title": "Planning for Digital Transformation",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "A basic mechanism by which ICT impacts the real world is through the transformation of enterprises and organizations towards conducting their business or offering their services more efficiently by adopting various digital technologies and strategies. This course is structured as a reading seminar where students study and discuss essential components of this “digital transformation” as both a technological activity and in terms of institutional culture, business, and industrial management. Students will be graded on the quality of their weekly assignments and their participation in classroom discussions. ",
+    "objectives": "The main objectives of this course are to: ",
+    "outcomes": [
+      "Evaluate the potential impact of advances in ICT on organizations.",
+      "Identify critical factors behind technology’s effectiveness on users.",
+      "Develop rational and objective categorizations of innovation including via exploitation of efficiencies, competition, and disruption."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None. Open to all CMU-Africa students with a math and programming background in IT",
+      "engineering",
+      "or AI."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-S4.html",
+    "course_code": "04-801-S4",
+    "title": "Project in Digital Transformation",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This is a project-oriented course where teams of students apply their learning in the companion Planning for Digital Transformation (DT) course, their degree program, or commercial experience, to propose a DT project in one of several topics. Business areas that students may focus on will include but are not limited to retail, manufacturing, logistics, healthcare, education, government, and non-governmental organizations. Suggested transformations may apply in different stages of the company life cycle from disruptive innovators to mature or faltering and in need of restructuring. There will be weekly assignments leading up to a final presentation. ",
+    "objectives": "The main objectives of this course are to: ",
+    "outcomes": [
+      "Engage in the planning and implementation of DT in their organization",
+      "Help develop new products for or improve the performance of an enterprise",
+      "Effectively communicate business recommendations"
+    ],
+    "content": "",
+    "prerequisites": [
+      "04-801-S3 Planning for Digital Transformation or by permission of the instructor"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-T3.html",
+    "course_code": "04-801-T3",
+    "title": "Applications of AI in Healthcare",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course introduces the principles and practices underlying the application of AI in healthcare. Students will survey the opportunities and challenges of using AI to improve healthcare, particularly in Africa. Students will study the potential impact of AI on broad groups of users including patients, providers, and health-related industries via domains such as medical image analysis, electronic health records (EHR), and customized drugs. Topics include, but are not limited, to neural networks and deep learning models for multimodal analysis as well as the use of time-series data. Practical questions around privacy and inclusiveness, and technical challenges of integration with existing systems will also be presented. Students will be assessed on weekly readings and homework assignments. ",
+    "objectives": "The main objectives of this course are to: ",
+    "outcomes": [
+      "Start working with healthcare data",
+      "Translate healthcare problems to machine learning problems",
+      "Select appropriate learning algorithms",
+      "Recognize limits and opportunities in applying machine learning (ML) to healthcare"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None. Open to all CMU-Africa students with a math and programming background in IT",
+      "engineering",
+      "or AI."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-T4.html",
+    "course_code": "04-801-T4",
+    "title": "Project in AI for Healthcare",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This is a practical course where students who have taken the companion 04-800-T3 mini-course, or who come with at least some artificial intelligence (AI) or machine learning (ML) background, tackle the challenges of working with real data to improve healthcare, particularly in Africa. While ML is applicable to a wide variety of problems in the different biosciences, this course focuses on the use of clinical data. Clinical topics that students may focus on will include risk classification, modeling of disease progression, customized diagnosis and medication; subtype discovery; clinical workflow improvement. Mathematical topics that students may focus on include graphical models, time-series analysis, deep learning and transfer learning, causality, interpretability, and algorithmic fairness. Students will be assessed on structured assignments integrated into a final project. ",
+    "objectives": "The main objectives of this course are to: ",
+    "outcomes": [
+      "Engage in the usage and/or implementation of AI for healthcare in their institution",
+      "Help develop new products for or improve the performance of a healthcare concern",
+      "Effectively communicate technical recommendations"
+    ],
+    "content": "",
+    "prerequisites": [
+      "04-801-T3 Applications of AI in Healthcare or by permission of the instructor."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-801-U3.html",
+    "course_code": "04-801-U3",
+    "title": "Technical Writing and Communication Skills",
+    "semester": "Fall, Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "For CMU Africa students only. Not suitable for students studying 04-606 in the same semester."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-900.html",
+    "course_code": "04-900",
+    "title": "MSIT Practicum",
+    "semester": "Fall, Spring",
+    "units": "24",
+    "location": "Africa",
+    "description": "The MSIT practicum provides an opportunity for students to apply the knowledge and skills learned in their classes to solve a real-world problem in information and communication technology offered by an industry client. In collaboration with a faculty mentor, each team of students works with an industry client to understand the problem to be addressed and develop a strategy to create a solution in one semester. A plan and schedule are developed, tasks are assigned, and progress is monitored through regular meetings. The solution is presented to the industry client who joins the faculty supervisor in evaluating and grading the practicum project. ",
+    "objectives": "",
+    "outcomes": [
+      "Acquire and assess requirements with a client",
+      "Make effective trade-offs in a project to realize a product that satisfies the client’s objectives",
+      "Define roles and tasks within a team and carry out a team project effectively",
+      "Make a project schedule and adapt throughout the project to deal with unforeseen contingencies",
+      "Apply research and observations on teamwork and professional skills to improve your own skills",
+      "Apply effective written communication skills to produce high-quality reports",
+      "Demonstrate effective presentation skills for diverse audiences"
+    ],
+    "content": "",
+    "prerequisites": [
+      "2nd-year MSIT standing"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-910.html",
+    "course_code": "04-910",
+    "title": "Entrepreneurship Project",
+    "semester": "Fall, Spring",
+    "units": "24",
+    "location": "Africa",
+    "description": "The IT Entrepreneurship Project class is an opportunity for students to build and practice skills in developing information technology ideas into innovations that create value for a selected set of customers. Working in small teams, students work on a concrete project to bridge the gap between entrepreneurial theory and practice. This highly selective course combines both independent team study and working with technical and professional mentors to apply concepts in the creation of a new information technology venture. Mentors can include faculty members as well as appropriate individuals from industry. This course will also involve collaboration with the CMU-Africa Industry Innovation Lab (IIL), corporate, and/or other organizations in the domain that will provide project support and feedback. The natural outcome of this project could be the continuation of its development in the IIL, with possible funding opportunities to create a startup at CMU-Africa. Prior to being admitted into this course, a team of a minimum of two students is required to submit a project for a new venture to be approved by CMU-Africa Entrepreneurship faculty. If approved, the team and a faculty advisor under the guidance of the course instructor will create and execute a semester-long development plan. ",
+    "objectives": "",
+    "outcomes": [
+      "Acquire and assess the requirements of customers",
+      "Make effective trade-offs in a project to realize a product that satisfies the customers’ needs",
+      "Define roles and tasks within a team and carry out a team project effectively",
+      "Make a project schedule and adapt it throughout the project to deal with unforeseen contingencies",
+      "Apply research and observations on teamwork and professional skills to improve your own skills"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-950.html",
+    "course_code": "04-950",
+    "title": "Engineering Artificial Intelligence Capstone",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Acquire and assess requirements with a client",
+      "Make effective trade-offs in a project to realize a product that satisfies the client’s objectives",
+      "Define roles and tasks within a team and carry out a team project effectively",
+      "Make a project schedule and adapt throughout the project to deal with unforeseen contingencies"
+    ],
+    "content": "",
+    "prerequisites": [
+      "Corequisite of 04-653 Engineering Artificial Intelligence Project Methods"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-980.html",
+    "course_code": "04-980",
+    "title": "Engineering Independent Study",
+    "semester": "Fall, Spring",
+    "units": "Variable",
+    "location": "Africa",
+    "description": "Students can undertake an independent study project during any semester after their first semester under the guidance of a faculty member. The student and faculty member should define the nature and scope of the project, and agree upon the expectations, deliverables, and the number of units to be earned for the project. Independent study of a topic unfamiliar to the student and not covered in an existing course, as well as original project work, can be undertaken as an Engineering Independent Study. A brief description of the project signed by both the faculty member and the student should be submitted and approved prior to the start of the semester. It is the responsibility of the faculty member to monitor the progress of the student and grade the project at the end of the semester. The number of units can be 3-15 units for the semester. Up to 15 total units of Engineering Independent Student credit can be counted toward the degree. Students selecting this course cannot take 04-990 Engineering Research Project . ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "First semester completed"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/04-990.html",
+    "course_code": "04-990",
+    "title": "Engineering Research Project",
+    "semester": "Fall, Spring",
+    "units": "Variable",
+    "location": "Africa",
+    "description": "This course offers a research opportunity for students interested in pursuing a research or academic career or Ph.D. study. The research project is conducted under the supervision of a faculty research adviser who first approves it based on the student’s skills and mutual interest. The research adviser and the student define and approve a study plan appropriate for the research. The research will lead to the presentation and defense of a mini-thesis in front of a research committee that may lead to the publication of a scholarly paper or papers. The research committee consists of three members including the advisor, and may include one external member. The student must complete 36 units of research over one or two semesters and may count 6 units of 04-701 Research Methods in Engineering toward the total. The variable units (12-36) allow the students to spread the research project over two semesters. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Completion of two semesters of study. Students selecting this course cannot take 04-980 Engineering Independent Study ."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/11-611.html",
+    "course_code": "11-611",
+    "title": "Natural Language Processing",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course is about a variety of ways to represent human languages (like English and Chinese) as computational systems and how to exploit those representations to write programs that do neat stuff with text and speech data, like: This field is called Natural Language Processing or Computational Linguistics, and it is extremely multidisciplinary. This course will therefore include some ideas central to Machine Learning and to Linguistics. We'll cover computational treatments of words, sounds, sentences, meanings, and conversations. We'll see how probabilities and real-world text data can help. We'll see how different levels interact in state-of-the-art approaches to applications like translation and information extraction. From a software engineering perspective, there will be an emphasis on rapid prototyping, a useful skill in many other areas of Computer Science. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "CS courses on data structures and algorithms and strong programming skills"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/11-697.html",
+    "course_code": "11-697",
+    "title": "Introduction to Question Answering with Large Language Models",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course is designed to be accessible to Masters and advanced undergraduate students who seek the basic skills necessary to implement practical Question Answering (QA) applications using Large Language Models (LLMs) in specific information domains. The syllabus includes learning materials on the core concepts of QA and LLMs, and how they are applied in closed commercial systems (e.g. ChatGPT) as well as open systems (e.g. Llama, T5). Students complete a set of hands-on exercises in Python that develop skills in applying LLMs for various open-source QA datasets. The course is also a prerequisite for 11-797 Question Answering (an advanced project-oriented course). For more information about the course, see https://www.cs.cmu.edu/~ehn/11-697/ ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/11-741.html",
+    "course_code": "11-741",
+    "title": "Machine Learning with Graphs",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "Graphs offer a natural way to represent complex relationships among objects of all kinds. Neural network learning with graphs has become important in both academic research and industrial applications. This course (for graduate and undergraduate students who meet the prerequisites) offers a mixture of fundamental concepts, algorithms, basic and advanced models, and broad applications, ranging from social popularity analysis and knowledge graph reasoning to deep learning for solving NP-complete problems. For more information about the course, see https://www.coursicle.com/cmu/courses/LTI/11741/ ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/11-785.html",
+    "course_code": "11-785",
+    "title": "Introduction to Deep Learning",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "“Deep Learning” systems, typified by deep neural networks, are increasingly taking over all AI tasks, ranging from language understanding, and speech and image recognition, to machine translation, planning, and even game playing and autonomous driving. As a result, expertise in deep learning is fast changing from an esoteric desirable to a mandatory prerequisite in many advanced academic settings, and a large advantage in the industrial job market. In this course, we will learn about the basics of deep neural networks and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and be able to apply Deep Learning to a variety of tasks. They will also be positioned to understand much of the current literature on the topic and extend their knowledge through further study. If you are only interested in the lectures, you can watch them on the YouTube channel . See the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/11-797-R.html",
+    "course_code": "11-797-R",
+    "title": "Question Answering",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course is primarily a project course. During the first few weeks of the course, students complete a set of readings (which are complemented by instructor presentations) and associated reading quizzes. Then the entire class will brainstorm ideas for new approaches to a current data set or leaderboard. After formulating specific hypotheses about how to extend the state of the art, the class will split into teams in order to implement and evaluate the associated experimental conditions for each hypothesis. paper). View more information about the course ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/14-735.html",
+    "course_code": "14-735",
+    "title": "Secure Coding",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course will enable students to understand how software coding defects lead to software vulnerabilities, develop secure software, and manage teams that develop secure software. This course provides a detailed explanation of common programming errors in C and C++ and describes how these errors can lead to code that is vulnerable to exploitation. The course covers secure software development tools and processes while focusing on low-level technical security issues intrinsic to the C and C++ programming languages and associated libraries. The course relies on \"learning-by-doing\", where students practice hands-on sophisticated secure coding concepts through continuous debugging and creative approaches. Many aspects of the assignments mimic the challenges developers face in a real-world software system. Some assignments will introduce students to a programming language that they might have never seen before such as JavaScript and Rust.  For more information about the course, please see https://www.cylab.cmu.edu/education/course-list/secure-coding.html  ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/14-817.html",
+    "course_code": "14-817",
+    "title": "Cyber Risk Modeling",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "There are too many cybersecurity risks to manage them all informally. You need a plan! Risk management and threat analysis are structured to craft better organizational security decisions. This course helps you learn how to prioritize risks, secure data assets, and to communicate your security knowledge. This is not a programming class but requires basic statistics (e.g. Monte Carlo analysis, which you will learn or review.) Major topics include: legal compliance, threat modeling, Mitre ATT&CK, the Common Vulnerabilities and Exposures database, and popular risk frameworks (STRIDE, PASTA, NIST, etc.) Those seeking roles where they will work with or become a CSCO, risk officer, or risk analyst will most benefit from this course. ",
+    "objectives": "",
+    "outcomes": [
+      "Communicate the strengths, weakness, and limitations of a risk-based approach to security management both to other security professionals as well as to non-technical decision makers.",
+      "Prioritize the most important assets to defend against attacks within a given system or organization.",
+      "Categorize the likelihood of types of risks. Work with uncertainty, estimations, and probabilistic models based on qualitative and quantitative data.",
+      "Perform threat analysis for common computing scenarios with tools like PASTA and NIST frameworks.",
+      "Over time, validate, monitor, update, and iterate plans to address risks.",
+      "Make appropriate recommendations to accept, mitigate, or insure against risks, with accompanying written analysis to support your recommendations.",
+      "Demonstrate understanding of security within the broad context of an organization by role playing concerns from different stakeholders.",
+      "Present a request for resources from your fictional management in order to address threats including financial modeling, clear presentation of the relative probabilities of different threats, the magnitude of threats, and specific mitigation plans. Develop the ability to convey technical concepts to non-technical stakeholders and understand likely concerns."
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/15-619.html",
+    "course_code": "15-619",
+    "title": "Cloud Computing",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Explain the core concepts of the cloud computing paradigm: how and why this paradigm shift came about, the characteristics, advantages, and challenges brought about by the various models and services in cloud computing",
+      "Apply the fundamental concepts in data centers to understand the tradeoffs in power, efficiency, and cost",
+      "Discuss system virtualization and outline its role in enabling the cloud computing system model",
+      "Illustrate the fundamental concepts of cloud storage and demonstrate their use in storage systems such as Amazon S3 and HDFS",
+      "Analyze various cloud programming models and apply them to solve problems on the cloud",
+      "Build cloud services that apply these concepts"
+    ],
+    "content": "",
+    "prerequisites": [
+      "Knowledge of computer systems and Java programming"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/17-734.html",
+    "course_code": "17-734",
+    "title": "Usable Privacy and Security",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "There is growing recognition that technology alone will not provide all of the solutions to security and privacy problems. Human factors play an essential role in these areas, and it is important for security and privacy experts to have an understanding of how people will interact with the systems they develop. This course is designed to introduce students to a variety of usability and user-interface problems related to privacy and security and to give them experience in understanding and designing studies aimed at helping to evaluate usability issues in security and privacy systems. The course is suitable both for students interested in privacy and security who would like to learn more about usability, as well as for students interested in usability who would like to learn more about security and privacy. All students will work in small teams on a group project throughout the semester. Students enrolled in this course will be required to read and comment on a research paper each week in addition to the other assignments. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "The course is open to all students who have at least some technical background (e.g. an undergraduate computer programming course).",
+      "Learn more"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-662.html",
+    "course_code": "18-662",
+    "title": "Principles and Engineering Applications of AI",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "The course will review the basic principles of AI. Some of the specific topics that will be covered are the following: The course will involve completing a set of challenging engineering applications of AI that will include: medical applications, video games, autonomous driving, autonomous robots, finance and economics, military, art, and advertising. Students should have a good background in basic probability theory, maturity in mathematical topics, and good programming skills. permission will be required. See the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "18-751 Applied Stochastic Processes with a minimum grade of B.",
+      "For seniors who would like to take the course but do not have the necessary prerequisites",
+      "instructor’s"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-631.html",
+    "course_code": "18-631",
+    "title": "Introduction to Information Security",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "Our growing reliance on information systems for daily activities, ranging from remote communications to financial exchanges, has made information security a central issue of our critical infrastructure. The course introduces the technical and policy foundations of information security. The main objective of the course is to enable students to reason about information systems from a security engineering perspective, taking into account technical, economic, and policy factors. Some topics covered in the course include elementary cryptography; access control; common software vulnerabilities; common network vulnerabilities; policy and export control laws in the U.S., Japan, and elsewhere; privacy; management and assurance; economics of security; and special topics in information security. ",
+    "objectives": "This course primarily aims at providing a level of literacy in information security adequate enough to understand the security implications on a number of diverse domains including software engineering; networking; privacy; and policy. A secondary objective is to provide a working knowledge of topics such as cryptography, privacy, network security, and infrastructure management so that students can acquire the necessary background for more advanced security courses. ",
+    "outcomes": [],
+    "content": "The course will cover the following topics: ",
+    "prerequisites": [
+      "The course assumes a basic working knowledge of computers",
+      "networks",
+      "C",
+      "and UNIX programming as well as an elementary mathematics background. But",
+      "it does not assume any prior exposure to topics in computer or communications security. Students lacking technical background (e.g.",
+      "students without any previous exposure to programming) are expected to catch up through self-study."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-640.html",
+    "course_code": "18-640",
+    "title": "Hardware Arithmetic for Machine Learning",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "In this course, students explore the techniques for designing high-performance digital circuits for computation along with methods for evaluating their characteristics. We begin by reviewing number systems and digital arithmetic along with basic arithmetic circuits such as ripple-carry adders. From there, we move to more complex adders (carry-look-ahead, carry-skip, carry-bypass, etc.), multipliers, dividers, and floating-point units. For each circuit introduced, we will develop techniques and present theory for evaluating their functionality and speed. Other methods will be described for analyzing a circuit's power consumption, testability, silicon area requirements, correctness, and cost. In addition, we will utilize various CAD tools to evaluate the circuits described. Finally, advanced timing and clocking concepts will be investigated. For example, the notion of clock skew will be introduced and its impact on clock period for sequential circuits will be analyzed. We will also learn how to analyze and design asynchronous circuits, a class of sequential circuits that do not utilize a clock signal. Course projects focus on key arithmetic aspects of various machine learning algorithms including: K-nearest neighbors, neural networks, decision trees, and support vector machines. For more information about the course, see https://courses.ece.cmu.edu/18640 ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-641.html",
+    "course_code": "18-641",
+    "title": "Design Patterns for Smartphone Development",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course provides an intensive exploration of computer programming by reviewing the basics of Object-Orientated programming and moving quickly to advanced programming using design patterns and a multi-tiered architecture. Students will learn smartphone development and how to apply the learned programming techniques to create extensible, reusable, and quality software as part of the coursework. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "S ome prior",
+      "but perhaps limited",
+      "programming experience in Java or another object-oriented programming language"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-652.html",
+    "course_code": "18-652",
+    "title": "Foundations of Software Engineering",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course will teach you about software engineering paradigms that have shaped the software industry over the past few decades. You will be exposed to fundamental disciplines of software engineering as well as engineering practices that crosscut system, project, and user perspectives. You will learn to define requirements iteratively, and architect, design, implement, integrate, test, and deploy a solution. You will work on self-organizing teams and manage the work collaboratively. You will also learn to solve a real problem subject to multiple constraints while keeping the stakeholders involved throughout the lifecycle and balancing the underlying engineering tradeoffs. The topics are applied in the context of a semester-long group project. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Basic software development experience with proficiency in at least one modern programming language and modern programming concepts. Prior to admission",
+      "students must successfully complete a programming assignment to demonstrate familiarity with required software technologies."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-661.html",
+    "course_code": "18-661",
+    "title": "Introduction to Machine Learning for Engineers",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course provides an introduction to machine learning with a special focus on engineering applications. The course starts with a mathematical background required for machine learning and covers approaches for supervised learning (linear models, kernel methods, decision trees, neural networks) and unsupervised learning (clustering, dimensionality reduction), as well as theoretical foundations of machine learning (learning theory, optimization). Evaluation will consist of mathematical problem sets and programming projects targeting real-world engineering applications. See the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-681.html",
+    "course_code": "18-681",
+    "title": "Power Electronics",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Explain static and dynamic characteristics of power semiconductor devices",
+      "Use the information provided in datasheets to carry out design calculations",
+      "Perform thermal design of power semiconductor devices",
+      "Explain the capabilities and limitations of power semiconductor devices and use them in a variety of power electronic circuits.",
+      "Analyze and design power electronic converters",
+      "Analyze waveform distortion arising from power electronic converters and develop mitigation methods",
+      "Investigate a power electronic system by simulation and experimentation",
+      "Communicate the findings of an investigation of a power electronic system in written form and orally with multimedia"
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-685.html",
+    "course_code": "18-685",
+    "title": "Power Electronics for Electric Utility Systems",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [
+      "Explain how static and dynamic characteristics of power semiconductor devices influence the design of power converters for electricity supply systems",
+      "Appreciate the electrical and thermal design of “High Voltage Valves”",
+      "Analyze the operation of High voltage converters such as HVDC, STATCOM, MMC, and SVC",
+      "Investigate the mitigation of Power flow and voltage stability problems by compensation using Power Electronic Converters",
+      "Investigate a grid system including power electronic converters by simulation and Communicate the findings in written form and orally with multimedia"
+    ],
+    "content": "",
+    "prerequisites": [
+      "There are no prerequisites for this course",
+      "but it is assumed that the student has an understanding of electrical & electronic principles",
+      "power systems",
+      "and power electronics at the bachelor level or equivalent experience and knowledge. Completion of a previous course in power electronics is recommended."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-731.html",
+    "course_code": "18-731",
+    "title": "Network Security",
+    "semester": "Fall, Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "",
+    "objectives": "The goal of this course is to provide learners with an advanced understanding of network security from both theoretical and practical perspectives. By the end of this course, students will be able to: ",
+    "outcomes": [
+      "Address issues associated with the security of the network",
+      "Assess different network threats and vulnerabilities and describe suitable countermeasures",
+      "Perform basic network and network application penetration testing",
+      "Assessing protocol designs and implementations for threats and vulnerabilities"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-751.html",
+    "course_code": "18-751",
+    "title": "Applied Stochastic Processes",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course provides a fundamental understanding of probability theory and its applications to stochastic systems. The course covers the basic concepts of random variables, random vectors, stochastic processes, and random fields. In addition, common random processes such as Markov chains, Wiener and Gaussian processes are introduced. The course touches on elements of estimation theory and optimal filtering including Wiener and Kalman filtering. Advanced topics in modern statistical signal processing such as linear prediction, linear models, and spectrum estimation are also discussed. Throughout the course, students will gain hands-on experience in applying the concepts to solve a wide range of complex and relevant problems. ",
+    "objectives": "Students in this class will learn: ",
+    "outcomes": [
+      "Demonstrate an understanding of the fundamental concepts of probability theory and its applications to stochastic systems.",
+      "Apply the concepts of random variables, random vectors, stochastic processes, and random fields to model real-world systems.",
+      "Analyze common random processes such as Markov chains, Wiener and Gaussian processes, and use them to model complex systems.",
+      "Apply the principles of estimation theory and optimal filtering to solve real-world problems, including Wiener and Kalman filtering.",
+      "Apply advanced topics in modern statistical signal processing such as linear prediction, linear models, and spectrum estimation to solve complex problems."
+    ],
+    "content": "Module 1: Probability and random variables Module 3: Statistical inference Module 4: Stochastic processes Module 5: Signal processing and filtering ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-759.html",
+    "course_code": "18-759",
+    "title": "Wireless Communications and Mobile Networks",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course introduces fundamental concepts of wireless networks and systems. These fundamentals aim to help a student understand any type of wireless network application or technology. It covers the theory of wireless propagation and the associated path loss phenomena. The course focuses on understanding the effects of the channel on signal propagation for broadcast and line-of-sight wireless systems. It looks at mobile cellular networks and satellite systems in detail. The course also covers spread spectrum systems (FHSS and DSSS) in line with their application scenarios in the real world. Other topics include a look at error performance in a wireless channel for different modulation schemes, and noise and interference effects. Research directions are introduced in this course, with discussions of heterogeneous cellular networks, distributed antenna systems, energy-efficient design of cellular systems, cloud radio access networks, 5G, mmWave propagation, unmanned aerial vehicle (UAV)-based mobile base stations, etc. Students are assessed through several labs, homework, a mid-semester exam, and a final group project. The course has no prerequisites. ",
+    "objectives": "Students are introduced to the components of a wireless network, from the transmitter side to the receiver side. It looks at the theory of propagation models in different scenarios, and the associated path loss modeling for these scenarios. It focuses on broadcast systems like mobile cellular and line-of-sight systems such as satellite links. It considers specifically the effects of atmospheric absorption, rain, and the curvature of the earth on the design of long-distance terrestrial line-of-sight systems. Students will understand how to determine the link budget of the link, including system effects outside the wireless channel. Individual practical labs are designed around these theoretical topics to help students gain a deeper understanding. Students also cover ideas around performing a survey and writing a survey report on a given topic. Students learn how to plan a cellular network using an industry-grade planning tool. ",
+    "outcomes": [
+      "Explain how multipath fading affects signal propagation in a wireless network.",
+      "Explain the difference between and effects of large-scale and small-scale propagation.",
+      "Design long-distance terrestrial line-of-sight links considering rain and atmospheric effects as well as the earth’s curvature.",
+      "Design satellite links and understand how satellites work, including the global positioning system (GPS).",
+      "Ability to carry out a research survey on a given topic in literature and write a summary paper on the same.",
+      "Explain how spread spectrum systems work in comparison with other channel access approaches."
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-785.html",
+    "course_code": "18-785",
+    "title": "Data, Inference, and Applied Machine Learning",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course will provide the methods and skills required to utilize data and quantitative models to automate predictive analytics and make improved decisions. From descriptive statistics to data analysis to machine learning the course will demonstrate the process of collecting, cleaning, interpreting, transforming, exploring, analyzing, and modeling data with the goal of extracting information, communicating insights, and supporting decision-making. The advantages and disadvantages of linear, nonlinear, parametric, nonparametric, and ensemble methods will be discussed while exploring the challenges of both supervised and unsupervised learning. The importance of quantifying uncertainty, statistical hypothesis testing, and communicating confidence in model results will be emphasized. The advantages of using visualization techniques to explore the data and communicate the outcomes will be highlighted throughout. Applications will include visualization, clustering, ranking, pattern recognition, anomaly detection, data mining, classification, regression, forecasting, and risk analysis. Participants will obtain hands-on experience during project assignments that utilize publicly available datasets and address practical challenges. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-787-K3.html",
+    "course_code": "18-787-K3",
+    "title": "Data Analytics",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course will take a practical approach to solving challenges in the public and private sectors using data analytics.  A number of different themes will be explored as case studies in order to demonstrate how data-driven decision-making has widespread applications.  The course will examine how the question being posed, the available data, and the selected modeling approach all come together to arrive at a feasible solution. A range of quantitative techniques, involving both linear and nonlinear methods will be presented for dealing with numerical structured datasets. Substantial emphasis will be placed on the process of delivering data analytics via a dashboard to facilitate decision-making and policy-making.  The course content will be structured to provide a roadmap for carrying out the necessary procedures and will be illustrated using case studies, reading material, and previously published models. Participants will obtain hands-on experience by working on specific challenges with real-world data through a carefully structured set of assignments. ",
+    "objectives": "The objective of this course is to provide students with practical experience in undertaking a data analytics project to address a challenge of their choice. This process involves: (1) proposing a feasible research plan based on a challenge that can be addressed with available data; (2) exploratory analysis of the data; (3) construction and evaluation of a quantitative model; and (4) communication of the model output to decision-makers.  This will involve identifying a relevant key performance indicator and collecting appropriate explanatory variables. The ability to write a report that documents the challenge, data, analysis, model, evaluation, and feasibility of deploying the analytics in a real-world setting will be assessed. Applications will include forecasting, classification, novelty detection, and risk monitoring. ",
+    "outcomes": [
+      "Design a data analytics project in response to a specific challenge",
+      "Download and organize data for addressing the challenge",
+      "Explore the dataset using visualization techniques",
+      "Apply a range of quantitative techniques",
+      "Discuss the advantages and disadvantages of different models",
+      "Select an approach that is optimal for meeting the objective",
+      "Present conclusions and recommendations",
+      "Communicate model output to decision-maker s"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-788-K4.html",
+    "course_code": "18-788-K4",
+    "title": "Big Data Science",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "The proliferation of mobile technology, wireless sensors, and social media provides a means of monitoring socio-economic activity, consumption of resources, and human mobility. Recent advances in data science are now capable of coping with the technical challenges of collecting, managing, and developing actionable insights from big data. Partnerships between academia, government, and the private sector are at the heart of the revolution that is currently demonstrating how data is a valuable commodity and a source of intellectual property. This course will take a practical approach to solving challenges in the public and private sectors using a collection of techniques that constitute this new multidisciplinary field known as data science. A number of different themes will be explored as case studies in order to demonstrate how big data collected from a wide range of disparate sources can be combined to provide insights, drive decisions, and influence policy. The course content will be structured to provide a roadmap for deploying data science techniques using case studies, reading material, and previously published models. Participants will obtain hands-on experience by working on real-world datasets during assignments. ",
+    "objectives": "The objective of this course is to provide students with practical experience in the different techniques and skills that constitute the field of data science. In particular, these case studies are selected to demonstrate the technical challenges of dealing with the three V’s that define big data (volume, velocity, and variety).  The various steps required will include (1) exploration of data using visualization techniques; (2) construction of features; (3) evaluation of a collection of models; (4) consideration of how a decision-maker can utilize the analysis; and (5) development of a dashboard for displaying the results of the analysis. The sources of big data will range from surveys to mobile data to satellite imagery and therefore involve both structured and unstructured data. ",
+    "outcomes": [
+      "Identify sources of big data in response to a specific challenge",
+      "Download and organize data for addressing the challenge",
+      "Explore the dataset using visualization techniques",
+      "Develop a number of features to extract information",
+      "Construct a range of quantitative models",
+      "Discuss the advantages and disadvantages of different models",
+      "Select an approach that is optimal for meeting the objective",
+      "Present conclusions and recommendations",
+      "Communicate model output to decision-makers"
+    ],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-797.html",
+    "course_code": "18-797/11-755",
+    "title": "Machine Learning for Signal Processing",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "Signal Processing is the science that deals with the extraction of information from signals of various kinds. This has two distinct aspects: characterization and categorization. Traditionally, signal characterization has been performed with mathematically-driven transforms, while categorization and classification are achieved using statistical tools. Machine learning aims to design algorithms that learn about the state of the world directly from data. An increasingly popular trend has been to develop and apply machine learning techniques to both aspects of signal processing, often blurring the distinction between the two. This course discusses the use of machine learning techniques to process signals. We cover a variety of topics, from data-driven approaches for the characterization of signals such as audio including speech, images, and video to machine learning methods for a variety of speech and image processing problems. Check the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-799-L.html",
+    "course_code": "18-799-L",
+    "title": "Robotics: Principles and Practice",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Robotics is the discipline that is concerned with physical, autonomous systems that can sense their environment and act on it to achieve goals, either by moving around their environment, moving objects in their environment, or both. This course explains how they do this, covering the theoretical knowledge required to sense the state of the robot and its environment and control the robot to accomplish its tasks. This theory is put into practice throughout the course using robot simulators and physical robots. Students will gain a greater understanding of each topic through a series of individual and group assignments and exercises, using the principles they have learned to write software that allows a robot to navigate to given targets and manipulate objects based on visual sensing. This course is an ideal foundation for further study in the field of robotics. Student progress is assessed by a series of multiple-choice tests and written individual & group assignments. ",
+    "objectives": "Students will be introduced to the different types of robots and the components, effectors, actuators, sensors, and control systems that are used for visual sensing, locomotion, and object manipulation. For mobile robots, students will learn the main principles of odometry, position estimation, kinematics, inverse kinematics, control, locomotion, path planning, and navigation. For robot manipulators, they will learn the theory required for pose specification, object manipulation, and task-level robot programming. For visual sensing, students will learn the fundamentals of image processing, image analysis, feature extraction, classification, camera calibration, and 2D & 3D computer vision. They will learn how to program robots using ROS (Robot Operating System), C/C++, and OpenCV, putting into practice in the lab what they have learned in the classroom. ",
+    "outcomes": [
+      "Explain the operation of the different components of a robot, including sensors, actuators, effectors, and control systems.",
+      "Describe the different types of robot and their applications.",
+      "Explain how mobile robots control their effectors for locomotion using odometry and absolute position estimation.",
+      "Use graph-based techniques to plan an effective path to a goal position and orientation.",
+      "Use homogeneous transformations, vectors, and quaternions to specify the position and orientation of objects.",
+      "Write task-level robot programs to manipulate objects.",
+      "Use robot vision to detect objects and determine their position and orientation.",
+      "Apply their knowledge to write ROS-based computer programs that control mobile robots and robot arms, enabling the robots to recognize and manipulate objects and navigate their environments."
+    ],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-799-RW.html",
+    "course_code": "18-799-RW",
+    "title": "Applied Computer Vision",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course provides students with a solid foundation in the key theories and practical applications of computer vision. It focuses on the techniques required for a variety of domains like robot vision, industrial inspection, and video surveillance. A key focus of the course is on the effective, practical implementation of computer vision solutions using software authored by the students and standard computer vision libraries. An introduction to deep learning and popular architectures therein is also provided. The course covers optics, sensors, image formation, image acquisition & image representation. Subsequently, we will cover morphological operations, edge detection, region growing, and object segmentation. Building on this, the course then proceeds to deal with object detection and recognition in 2D, addressing interest point operators, gradient orientation histograms, the SIFT descriptor, color histogram intersection and back projection, the Hough transform, and template matching. The problem of recovery of 3D information is then addressed, introducing homogeneous coordinates and transformations, the perspective transformation, camera model, inverse perspective transformation, stereo vision, and epipolar geometry, as well as other depth cues. Subsequently, the course will provide a brief introduction to a few machine learning techniques like K-means clustering, Markov Random Fields, and Bayesian classification. Color-based segmentation, snakes, and graph cuts will be studied. We will then discuss video image processing, the detection and tracking of moving objects. The course finishes by addressing the important role played by machine learning in computer vision today. We will introduce deep learning and convolution neural networks as applied to computer vision. Popular architectures and applications will be discussed. ",
+    "objectives": "",
+    "outcomes": [
+      "Use OpenCV, C++, CMake, and gcc to write computer vision programs",
+      "Explain the theory and practical aspects of several computer vision algorithms",
+      "Understand the applicability of computer vision to a wide range of industrial, consumer, and commercial problems",
+      "Combine different computer vision algorithms to build practical applications"
+    ],
+    "content": "",
+    "prerequisites": [
+      "Prior knowledge of coding in C or C++ would help greatly."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-859-R.html",
+    "course_code": "18-859-R",
+    "title": "Networking Lab",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course aims to give hands-on knowledge of network principles and the challenges to make an operational network. By the end of this course, students should be able to deploy and configure a basic enterprise network. ",
+    "objectives": "Students will learn to apply networking principles through the set-up, configuration, and testing of actual network switches, routers, and other networking and computing equipment. Students will complete weekly labs that require them to implement a specific network configuration. Students will get familiar with switching and routing protocols through intensive lab work and projects. ",
+    "outcomes": [
+      "Design and configure an Ethernet LAN with VLANs",
+      "Optimize the use of IPV4 (IPV4 subnetting)",
+      "Configure various routing protocols",
+      "Deploy ACL-based Firewalls",
+      "Understand IPV6 and its subnetting",
+      "Design an SDN network"
+    ],
+    "content": "",
+    "prerequisites": [
+      "04-641 Fundamentals of Telecommunications and Computer Networks (may be taken concurrently) or a similar class."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-861.html",
+    "course_code": "18-861",
+    "title": "Energy Project Development and Economic Studies",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course introduces concepts and tools for the development and analysis of energy-sector or energy-enabled infrastructure projects. Students will learn about the project development processes through case studies in the African context. They will also develop the ability to perform basic technical and economic feasibility assessments through directed projects. View the course syllabus for more information. ",
+    "objectives": "The course's primary goal is for students to gain experience and skills in developing pre-feasibility and feasibility-level models of energy-sector or energy-enabled projects. Students identify and evaluate techno-economic success factors that define the spread of different use cases. Students should practice and improve their critical thinking skills in technical, social, and financial aspects that relate to these projects. ",
+    "outcomes": [],
+    "content": "Topics include: Past projects have spanned these examples: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-862.html",
+    "course_code": "18-862",
+    "title": "Control of Grid-Connected Machines & Converters",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "Electric machines are the backbone of power systems and any production process in the world. However, if uncontrolled or uncoordinated, they cause blackouts. Converters for renewables and electric vehicles are also challenging engineers to revisit and revise electric machine analysis and control. This course offers a classically-based, yet forward-looking understanding of electric machines, converters, their operation, control, and applications in vehicular technology and distributed generation, as well as their effects at a system level. ",
+    "objectives": "Students in the course will examine how to: ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Undergraduate course in electric circuits or linear systems or permission from the instructor."
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-863-K3.html",
+    "course_code": "18-863-K3",
+    "title": "Power System Operations",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-864-R4.html",
+    "course_code": "18-864-R4",
+    "title": "Power System Expansion",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-865.html",
+    "course_code": "18-865",
+    "title": "Photovoltaic Systems Engineering",
+    "semester": "Fall",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course introduces basic engineering concepts for photovoltaic systems. Topics covered include solar resource assessment, PV cells and modules, system components, performance modeling, system sizing, loss mechanisms, energy yield assessment, and project economics. Different applications and business models for PV technology will be discussed including utility-scale PV power plants, rooftop systems, and off-grid systems. The implications of relevant policy will be explored including net metering and independent power producers. The course will be interesting to a general audience but is focused in particular on applications in the developing world. View the syllabus for more information. ",
+    "objectives": "Students in the course will examine how to: ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-866-M3.html",
+    "course_code": "18-866-M3",
+    "title": "Off-Grid Electricity Systems",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "Over one billion people in the world still lack access to electricity, many of them out of reach of the electricity grid in the near term. This course will explore the technologies and architectures used to provide electricity services in off-grid regions of the developing world including mini/microgrids and solar home systems. ",
+    "objectives": "Definitions relevant to energy access and development will be discussed. Basic system design principles for off-grid components will be applied. Students will use HOMER modeling software to evaluate tradeoffs in component performance. In addition to studying off-grid technologies, the course will also explore the context in which these systems are deployed, their role in enabling development, and policy challenges to implementation. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-867-R4.html",
+    "course_code": "18-867-R4",
+    "title": "Applied Smart Grid Telecoms",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "This course examines applications of standards for communications protocols in smart grids, covering relevant standards such as IEC61850 and DNP3. Participants will complete assignments based on real-world examples that explore the implementation and limitations of smart grid telecommunications. Appropriate for communications engineers wanting to understand the power grid, and power engineers wanting to develop their applied knowledge of communications. View the syllabus for more information. ",
+    "objectives": "The course is intended to help students understand the selection of appropriate protocols and physical layer options in order to serve the communications and flexibility needs of power grids. Students will also develop the ability to interpret messages in different protocols. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-883-L4.html",
+    "course_code": "18-883-L4",
+    "title": "Integrated Energy Systems",
+    "semester": "Spring",
+    "units": "6",
+    "location": "Africa",
+    "description": "Our energy systems — from electricity to thermal to transportation fuels – are at the core of our economies, powering commerce and industry. They are critical to achieving development goals like food security and access to quality healthcare. Energy systems are multidimensional and complex, so understanding today’s various energy sources and their interactions is key to designing sustainable, low-carbon futures. This interdisciplinary course sets the foundation for future energy professionals by exploring a range of renewable and traditional energy sources, how they are integrated into and shape our society, and what this means for technology design and decision-making. ",
+    "objectives": "This course unpacks today’s major energy production methods across East and West Africa, highlighting their interactions and potential. Students will: ",
+    "outcomes": [
+      "Compare pros and cons of energy sources in terms of efficiency, emissions, volatility, and reliability",
+      "Contact energy generation facility managers/planners and collect data on their facility production",
+      "Evaluate natural resources related to energy production in a given area",
+      "Use data on a given area’s natural resources and the community/regional energy demand to select and size energy technologies to meet the area’s demand over time (accounting for growth trends)"
+    ],
+    "content": "Renewable and traditional energy sources being utilized in East and West Africa (e.g., solar PV, solar thermal, wind, wave, tidal, bioenergy, and hydropower) as well as their interactions in today’s energy systems ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-980.html",
+    "course_code": "18-980",
+    "title": "M.S. Graduate Project",
+    "semester": "Fall, Spring",
+    "units": "Variable",
+    "location": "Pittsburgh",
+    "description": "Master's level research and it requires ECE approval. See the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/18-989.html",
+    "course_code": "18-989",
+    "title": "Introduction to Graduate Studies",
+    "semester": "Fall",
+    "units": "1",
+    "location": "Pittsburgh",
+    "description": "The Introduction to Graduate Studies course is designed to increase awareness and understanding of academic integrity issues, Carnegie Mellon community standards, and the ethical job search. This is done via various sessions/modules that are already offered via several entities throughout campus (such as the CPDC, ICC, and GCC). Topics covered include paraphrasing and citation, participating in the US classroom, avoiding plagiarism, unconscious bias, combating sexual violence on campus, finding jobs and internships, negotiation, communication, relationship building, and other topics of interest. The course culminates in students writing a reflection paper. For international students, the paper should compare Western academic and cultural standards to those of their home country. For domestic students, the paper should be a reflection on CMU's community standards. Active participation in 5 sessions/modules in the above-mentioned areas and the submission of the reflection paper will determine a pass/fail grade. See the original course description for the most recent information. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/19-608.html",
+    "course_code": "19-608",
+    "title": "Privacy, Policy, Law & Tech",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Africa",
+    "description": "This course focuses on policy issues related to privacy from the perspectives of governments, organizations, and individuals. We will begin with a historical and philosophical study of privacy and then explore recent public policy issues. We will examine the privacy protections provided by laws and regulations, as well as the way technology can be used to protect privacy. We will emphasize technology-related privacy concerns and mitigation, for example: social networks, smartphones, behavioral advertising (and tools to prevent targeted advertising and tracking), anonymous communication systems, big data, and drones. Programming skills are not required. This course will include a lot of reading, writing, and class discussion. Students will be able to tailor their assignments to their skills and interests, focusing more on programming or writing papers as they see fit. However, all students will be expected to do some writing and some technical work. A large emphasis will be placed on research and communication skills, which will be taught throughout the course. ",
+    "objectives": "By the end of this course, students should: Students should be prepared to pass the IAPP Certified Information Privacy Professional exams. Visit the course page for more information. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/19-625.html",
+    "course_code": "19-625",
+    "title": "Sustainable Energy for the Developing World",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course examines the current state of the energy system in developing countries and the challenges these countries will face in sustainably meeting their energy needs in the 21st century. The following are examples of questions and issues we will cover throughout the semester. What is the current status of the energy system in the developing world? What is the role of energy in supporting economic growth and alleviating poverty? What are the future energy needs of developing countries? What are the challenges developing countries will face as they build/improve their energy systems? What technologies are available to meet the energy challenges in the developing world? View the course syllabus for more information. ",
+    "objectives": "Through readings, class discussions, and a final project, students will be expected to achieve the following learning outcomes: ",
+    "outcomes": [],
+    "content": "This course examines the current state of the energy system in developing countries and the challenges these countries will face in sustainably meeting their energy needs in the 21st century. The following are examples of questions and issues we will cover throughout the semester: ",
+    "prerequisites": [
+      "None"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/19-661-RW.html",
+    "course_code": "19-661-RW",
+    "title": "ST: Introduction to Policy-making and Policy Analysis",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "The purpose of this course is to prepare engineering students to inform and engage in the policy-making process, either from inside the government or from outside. We will discuss the roles of government, the private sector, and civil society in promoting public welfare. The course will examine how policymakers design and implement successful policies by working with key stakeholders throughout society. We will survey policy analysis techniques including problems formulated in terms of utility maximization, issues in valuation of intangibles, and decision-making under uncertainty. Most of the material in this course applies reasonably well to policy analysis anywhere on the globe. However, as a CMU-Africa course, we will tend to select case studies from Africa, and course discussion will often center specifically on the African context. ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/24-784.html",
+    "course_code": "24-784",
+    "title": "Trustworthy AI",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "Innovations driven by recent progress in artificial intelligence such as deep learning and reinforcement learning, have shown human-competitive performance. However, as research expands to real-world cyber-physical autonomy, the question of safety is becoming a crux for the transition from theories to practice. This course will first review fundamental knowledge for trustworthy AI autonomy, including adversarial attack/defend, generative models, hierarchical Bayesian models, safe reinforcement learning, rare-event/few-shot learning, and robust evaluation. Then from the research perspective, students will explore the novelty and potential extension of various state-of-the-art trustworthy AI research and their implementation through a series of readings. Students will develop the ability to conduct research in teams. Knowledge and research skills learned in this course can be applied to self-driving, healthcare devices, assistant robots, and intelligent manufacturing. This course is devised for research-focused students who have backgrounds and interests in statistical machine learning, robotics and control, and human-machine interaction. Other interested students should contact the instructor to determine if it is a good fit for them. ",
+    "objectives": "Students will obtain an understanding of the basic methods to design trustworthy AI and apply them in their research projects. ",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": [
+      "Basic machine learning knowledge",
+      "Learn more"
+    ]
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/90-834.html",
+    "course_code": "90-834",
+    "title": "Geospatial Health Analytics",
+    "semester": "Spring",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "This course is taught with asynchronous video lectures and readings with in-person and remote office hours. A geographic information system (GIS) provides an effective way to visualize, organize and manage a wide variety of information including administrative and medical record data, environmental health, social services, and other location data. Public health departments, hospitals, and medical research agencies are using GIS to map health-related events, identify disease clusters, investigate environmental health problems, and understand the spread of disease. This course uses a unique approach for teaching GIS in health care. It involves learning how to use GIS software in the context of carrying out projects for visualizing and analyzing health-related data. Each week includes lectures and computer labs that focus on a health, technical, or policy issue which use Esri's ArcGIS Pro and Platform technologies to analyze data or solve a problem. Students learn to create Story Maps and Dashboards to convey their maps and associated text to the public and decision makers. Through assignments and projects students will not only learn how to use the software but will also learn the many distinctive advantages of using GIS for health care policy making and planning. By the end of the course, students will have sufficient background so that they can become expert users of GIS in health organizations - building, managing, and using GIS maps and health data. For more information about the course, see https://api.heinz.cmu.edu/courses_api/course_detail/90-834/ ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  },
+  {
+    "url": "https://www.africa.engineering.cmu.edu/academics/courses/94-802.html",
+    "course_code": "94-802",
+    "title": "Geographic Information Systems",
+    "semester": "Fall",
+    "units": "12",
+    "location": "Pittsburgh",
+    "description": "A Geographic Information System (GIS) provides storage, retrieval, and visualization of geographically referenced data as well as design and analysis of spatial information. GIS provides unique analytical tools to investigate spatial relationships, patterns, and processes of cultural, biological, demographic, economic, social, environmental, health care, criminal, and other phenomena. The course uses asynchronous video lectures for a deep understanding of GIS, supplemented by in-person or Zoom lectures and weekly office hours for personal interaction. Software tutorials are used to learn industry-leading tools from Esri Inc., including ArcGIS Pro, ArcGIS Online, ArcGIS Map Viewer, ArcGIS Story Maps, and Dashboards. Subject areas span a broad array of disciplines including but not limited to architecture, data analytics, education, engineering, environmental studies, health, public policy, sustainability, urban design, planning, and transportation. For more information about the course, see https://api.heinz.cmu.edu/courses_api/course_detail/94-802/ ",
+    "objectives": "",
+    "outcomes": [],
+    "content": "",
+    "prerequisites": []
+  }
+]
